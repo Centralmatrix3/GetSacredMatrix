@@ -1,5 +1,5 @@
 # 规则名称: DIRECT
-# 规则统计: 95314
+# 规则统计: 95334
 
 domain_set:
   - 265.com
@@ -2634,6 +2634,7 @@ domain_suffix_set:
   - 1f11.com
   - 1fe.cc
   - 1fenda.com
+  - 1fengxin.xyz
   - 1fenlei.com
   - 1flash.net
   - 1foo.com
@@ -2647,7 +2648,6 @@ domain_suffix_set:
   - 1ggame.com
   - 1gongying.com
   - 1gow.net
-  - 1gzd.com
   - 1haigtm.com
   - 1haitao.com
   - 1hangye.com
@@ -3390,6 +3390,7 @@ domain_suffix_set:
   - 2sey.com
   - 2speakarabic.com
   - 2sx.net
+  - 2t58.com
   - 2tianxin.com
   - 2tt.net
   - 2tubaobao.xyz
@@ -6452,6 +6453,7 @@ domain_suffix_set:
   - 6.biz
   - 60.gs
   - 6000feet.com
+  - 6002255.com
   - 600280.com
   - 6006.xin
   - 600895.com
@@ -8342,7 +8344,6 @@ domain_suffix_set:
   - 920uc.com
   - 921.com
   - 9211.com
-  - 921716.com
   - 9217web.com
   - 92220668.com
   - 92220701.com
@@ -9722,6 +9723,7 @@ domain_suffix_set:
   - ahdahda.com
   - ahdci.com
   - ahdf56.com
+  - ahdohpiechei.com
   - ahdsez.com
   - ahdtpm.com
   - ahdzdb.com
@@ -10407,6 +10409,8 @@ domain_suffix_set:
   - akhtm.com
   - akhy.com
   - aki-game.com
+  - aki-game.net
+  - aki-game2.net
   - akile.net
   - akjianding.com
   - akkogear.com
@@ -10820,6 +10824,7 @@ domain_suffix_set:
   - am89.com
   - amaiche.com
   - amallb2b.com
+  - amandacameron.com
   - amanyi.com
   - amaomb.com
   - amap.com
@@ -14239,7 +14244,6 @@ domain_suffix_set:
   - biggeryun.com
   - bigherdsman.com
   - bightbc.com
-  - bigjb.store
   - bigjpg.com
   - bigma.cc
   - bigniu.com
@@ -21395,7 +21399,6 @@ domain_suffix_set:
   - cnzsyz.com
   - cnzucai.com
   - cnzweal.com
-  - cnzx888.com
   - cnzxsoft.com
   - cnzxwh.com
   - cnzyao.com
@@ -25212,6 +25215,7 @@ domain_suffix_set:
   - dlgxbl.com
   - dlgzhtkk.com
   - dlhexing.com
+  - dlhospital.com
   - dlhtlw.com
   - dlhwjq.com
   - dlink.link
@@ -25311,7 +25315,6 @@ domain_suffix_set:
   - dmhy.com
   - dmiug.com
   - dmjnb.com
-  - dmjtxt.com
   - dmjuups.com
   - dmjvip.com
   - dmlei.com
@@ -28111,6 +28114,7 @@ domain_suffix_set:
   - erlou.com
   - ermain.com
   - ermao.com
+  - ermao.live
   - ermiao.com
   - ernaonet.com
   - ernest.me
@@ -29800,6 +29804,7 @@ domain_suffix_set:
   - fineway.com
   - finewyx.com
   - fineyoga.com
+  - finezb.com
   - finger66.com
   - fingerflyapp.com
   - fingerstylechina.com
@@ -32603,6 +32608,7 @@ domain_suffix_set:
   - glncn.com
   - glnewstar.com
   - glnftx.com
+  - gloamingtechnology.com
   - global-download.acer.com
   - global-harbor.com
   - global-idc.net
@@ -33147,7 +33153,6 @@ domain_suffix_set:
   - goquye.com
   - gorebuy.com
   - goregxa.com
-  - gorelay.xyz
   - gorichox.com
   - gorouter.info
   - gorse.com
@@ -34176,6 +34181,7 @@ domain_suffix_set:
   - gw2sc.com
   - gw4.cc
   - gw66.vip
+  - gwacoe.com
   - gwamcc.com
   - gwauto.com
   - gwbfc.com
@@ -37039,6 +37045,7 @@ domain_suffix_set:
   - haishuokj.com
   - haishuu.com
   - haisongta.com
+  - haita.io
   - haitaibrowser.com
   - haitaichina.com
   - haitakuajing.com
@@ -41914,7 +41921,6 @@ domain_suffix_set:
   - hy628.com
   - hy8881.com
   - hy9905.com
-  - hyadssp.com
   - hyagv.com
   - hyahm.com
   - hyaimed.com
@@ -50530,6 +50536,8 @@ domain_suffix_set:
   - kuqin.com
   - kureader.com
   - kurobbs.com
+  - kurogame-service.com
+  - kurogame-service.xyz
   - kurogame.com
   - kurogame.xyz
   - kurogames-global.com
@@ -54763,7 +54771,6 @@ domain_suffix_set:
   - m1world.com
   - m1xia.com
   - m2ez.com
-  - m2k3j7x8.com
   - m2mlib.com
   - m2mzy.com
   - m3guo.com
@@ -57127,6 +57134,7 @@ domain_suffix_set:
   - modooplay.com
   - modouwangluo.com
   - modstart.com
+  - modujx01.com
   - moduyun.com
   - modxz.com
   - moe-box.com
@@ -60949,6 +60957,7 @@ domain_suffix_set:
   - oneyac.com
   - onezapp.com
   - onezh.com
+  - onfoo.com
   - onfun.net
   - ongoalconveying.com
   - onijiang.com
@@ -62145,6 +62154,7 @@ domain_suffix_set:
   - peoplerail.com
   - peopleyuqing.com
   - pepresource.com
+  - pepsidns.cc
   - perfect-input.com
   - perfect99.com
   - perfectdiary.com
@@ -68349,7 +68359,6 @@ domain_suffix_set:
   - sdxxjmgg.com
   - sdxyxhj.com
   - sdxzt.com
-  - sdyeya.com
   - sdyftr.com
   - sdyhqp.com
   - sdyidc.com
@@ -69331,7 +69340,6 @@ domain_suffix_set:
   - shejis.com
   - shejiwo.net
   - shejixf.com
-  - shejiyanxuan.com
   - shejiye.com
   - shejiyizhou.com
   - shejiyue.com
@@ -72600,6 +72608,7 @@ domain_suffix_set:
   - subangjia.com
   - subaonet.com
   - subaoxw.com
+  - subelf.net
   - subingkang.com
   - subinwechat.com
   - subline.org
@@ -74027,6 +74036,7 @@ domain_suffix_set:
   - szzhsponge.com
   - szzhuoju.com
   - szzmny.com
+  - szzntech.com
   - szzoan.com
   - szzs360.com
   - szzscq.com
@@ -77023,6 +77033,7 @@ domain_suffix_set:
   - tugou.com
   - tugoucx.com
   - tuguaishou.com
+  - tuhaiba.com
   - tuhaogroup.com
   - tuhaokuai.com
   - tuhu.com
@@ -77528,6 +77539,7 @@ domain_suffix_set:
   - tzjufeng.com
   - tzjwrml.com
   - tzjxl.com
+  - tzkameng.com
   - tzkciz.com
   - tzlib.net
   - tzlmt.com
@@ -79989,6 +80001,7 @@ domain_suffix_set:
   - wannianqingjianzhan.com
   - wannuoda.com
   - wanplus.com
+  - wanpufeiliu.com
   - wanqianyun.com
   - wanqiu123.com
   - wanqiula.com
@@ -80216,6 +80229,7 @@ domain_suffix_set:
   - wcjbb.com
   - wcjm.org
   - wclbox.com
+  - wclog1222.com
   - wcloud.com
   - wcode.net
   - wcp.hk
@@ -80934,6 +80948,7 @@ domain_suffix_set:
   - wenwo.com
   - wenwu8.com
   - wenxiang.org
+  - wenxiaobai.com
   - wenxiaoyou.com
   - wenxiaozhan.com
   - wenxiaozhan.net
@@ -81845,7 +81860,6 @@ domain_suffix_set:
   - wlski.com
   - wlsrenzaocaoping.com
   - wlstock.com
-  - wlsvt.com
   - wlsx.net
   - wltieyaoban.com
   - wluotx.com
@@ -82431,6 +82445,7 @@ domain_suffix_set:
   - wsjgd688.com
   - wsjx.net
   - wskam.com
+  - wskwai.com
   - wsljf.xyz
   - wsloan.com
   - wsonh.com
@@ -84126,6 +84141,7 @@ domain_suffix_set:
   - xiaoe-materials.com
   - xiaoe-tech.com
   - xiaoe-tools.com
+  - xiaoeeye.com
   - xiaoeknow.com
   - xiaoenai.com
   - xiaoerjiren.com
@@ -85614,6 +85630,7 @@ domain_suffix_set:
   - xmf.com
   - xmfc.com
   - xmferry.com
+  - xmfev.com
   - xmfish.com
   - xmfunny.com
   - xmgltwzhs.com
@@ -86636,6 +86653,7 @@ domain_suffix_set:
   - xv5.com
   - xvcdmo.com
   - xvista.com
+  - xw-chip.com
   - xw-planning.com
   - xw-scm.com
   - xw1806.com
@@ -86848,6 +86866,7 @@ domain_suffix_set:
   - xyffvip.com
   - xyflcp.com
   - xyfnz.com
+  - xyg.com
   - xygmed.com
   - xygt666.com
   - xygtea.com
@@ -87027,7 +87046,6 @@ domain_suffix_set:
   - xzrzscq.com
   - xzsdyyy.com
   - xzsec.com
-  - xzshangwu.com
   - xzsmlq.com
   - xzsnw.com
   - xzstatic.com
@@ -87038,7 +87056,6 @@ domain_suffix_set:
   - xzw.com
   - xzw.pw
   - xzx.com
-  - xzxcar.com
   - xzxkjd.com
   - xzxw.com
   - xzxwhcb.com
@@ -87759,6 +87776,7 @@ domain_suffix_set:
   - yeshu.cloud
   - yeshu.com
   - yesidos.com
+  - yesilicon.com
   - yeskn.com
   - yesky.com
   - yeslib.com
@@ -91789,6 +91807,7 @@ domain_suffix_set:
   - zenithmining.com
   - zenithspace.net
   - zenixauto.com
+  - zenlesszonezero.com
   - zenoven.com
   - zentao.net
   - zentaopm.com
@@ -95148,6 +95167,7 @@ domain_suffix_set:
   - zyzjmz.org
   - zyzkb.net
   - zyzw.com
+  - zz-bosch.com
   - zz-hh.com
   - zz-invest.com
   - zz-zigzag.com
