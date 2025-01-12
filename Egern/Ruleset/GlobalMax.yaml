@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 30991
+# 规则统计: 30990
 
 no_resolve: true
 domain_set:
@@ -30685,7 +30685,6 @@ domain_suffix_set:
   - zencoder.com
   - zendesk.com
   - zengjinyan.org
-  - zenlesszonezero.com
   - zenmate.com
   - zenodo.org
   - zeplerinstitute.ac.uk

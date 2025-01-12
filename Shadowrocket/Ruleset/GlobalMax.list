@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 30991
+# 规则统计: 30990
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -30682,7 +30682,6 @@ DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,zencoder.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zengjinyan.org
-DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,zenmate.com
 DOMAIN-SUFFIX,zenodo.org
 DOMAIN-SUFFIX,zeplerinstitute.ac.uk
