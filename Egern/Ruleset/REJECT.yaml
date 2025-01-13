@@ -1,5 +1,5 @@
 # 规则名称: REJECT
-# 规则统计: 65842
+# 规则统计: 65862
 
 domain_suffix_set:
   - 0.code.cotsta.ru
@@ -2453,6 +2453,7 @@ domain_suffix_set:
   - actionrtb.com
   - actionsplash.com
   - actionteaser.ru
+  - actiontracking.jp
   - actitat.com
   - activated.co.il
   - activated.digital
@@ -2688,6 +2689,7 @@ domain_suffix_set:
   - ad.exyws.org
   - ad.feedbag.co.kr
   - ad.filmweb.pl
+  - ad.firestorage.jp
   - ad.firstadsolution.com
   - ad.flipboard.com
   - ad.floq.jp
@@ -9218,6 +9220,7 @@ domain_suffix_set:
   - auxin-box.com
   - auxml.com
   - auxmoney-partnerprogramm.de
+  - auytiuhpu.com
   - av-scanner.com
   - avads.co.uk
   - availablesyrup.com
@@ -12590,6 +12593,7 @@ domain_suffix_set:
   - c-stat.eu
   - c-trzylshv.vip
   - c.28rv.com
+  - c.albss.com
   - c.amazinglybrilliant.com.au
   - c.anytrx.com
   - c.ar.msn.com
@@ -13569,6 +13573,7 @@ domain_suffix_set:
   - cdnweb2analytics.com
   - cdnweb3.pages.dev
   - cdolhlwq.xyz
+  - cdomsif.top
   - cdoqjxlnegnhm.com
   - cdoshbf.top
   - cdotrvjaiupk.com
@@ -20239,6 +20244,7 @@ domain_suffix_set:
   - dpeqm8xv96fuc.cloudfront.net
   - dpflyingoncs.top
   - dphunters.com
+  - dphwyvcmdki.com
   - dpirwgljl6cjp.cloudfront.net
   - dpjlvaveq1byu.cloudfront.net
   - dpjrba.com
@@ -20310,6 +20316,7 @@ domain_suffix_set:
   - drapingleden.com
   - dratingmaject.com
   - draughtpoisonous.com
+  - drauvea.com
   - drawbackcaptiverusty.com
   - drawerenter.com
   - drawergypsyavalanche.com
@@ -21399,6 +21406,7 @@ domain_suffix_set:
   - eirbrightscarletcl.com
   - eisasbeautifula.info
   - eisasbeautifulas.com
+  - eisnaisv.com
   - eisys-bcs.jp
   - eiteribesshaints.com
   - eitfromtheothe.org
@@ -33747,6 +33755,7 @@ domain_suffix_set:
   - listenedmusician.com
   - listenonrepeat.fr
   - listingcafe.com
+  - listoukectivetr.com
   - lists-tracking.komando.com
   - lists.ccmbg.com
   - listsbuttock.com
@@ -35394,6 +35403,7 @@ domain_suffix_set:
   - map-s.online
   - mapamnni.com
   - mapchilde.top
+  - mapcommand.com
   - mapeeree.xyz
   - maper.info
   - maphonortea.com
@@ -40335,6 +40345,7 @@ domain_suffix_set:
   - ofdb.fr
   - ofdittor.com
   - ofdnkro.xyz
+  - ofdomjzpix.com
   - ofdrapiona.com
   - ofebyk.xyz
   - ofeetles.pro
@@ -40550,6 +40561,7 @@ domain_suffix_set:
   - ojzghaawlf.com
   - ok-server.co.il
   - ok.5.p2l.info
+  - ok5.fun
   - ok8867s.com
   - ok88okg.infinityscans.net
   - okagcw.xyz
@@ -41420,6 +41432,7 @@ domain_suffix_set:
   - oumtirsu.com
   - ounceanalogous.com
   - oundandk.cfd
+  - oundaymitools.org
   - oundhertobeconsi.com
   - oungimuk.net
   - ounigaugsurvey.space
@@ -45175,6 +45188,7 @@ domain_suffix_set:
   - pugdisguise.com
   - pugmarktagua.com
   - pugsgivehugs.com
+  - puhmtt.icu
   - puhtml.com
   - puitaexb.com
   - pukimuki.xyz
@@ -46052,6 +46066,7 @@ domain_suffix_set:
   - quik-serv.com
   - quilkinhulking.shop
   - quillion.com
+  - quillsconi.top
   - quinchdeepish.top
   - quinst.com
   - quintag.com
@@ -47539,6 +47554,7 @@ domain_suffix_set:
   - rfjuoqrbnknop.com
   - rfnvqpo.xyz
   - rfogqbystvgb.com
+  - rfoqfifqcyymeb.com
   - rfpozf.com
   - rfsjuxlip.com
   - rftslb.com
@@ -56057,6 +56073,7 @@ domain_suffix_set:
   - tncred.com
   - tnctufo.com
   - tnd.ecefibwja.xyz
+  - tndbnriz.icu
   - tneca.com
   - tneduf.com
   - tnfno.icu
@@ -58132,6 +58149,7 @@ domain_suffix_set:
   - tst14netreal.com
   - tstats-13fkh44r.com
   - tste.startribune.com
+  - tstpmasispcw.com
   - tsy-jnugwavj.love
   - tsyndicate.com
   - tsyndicate.net
@@ -64221,6 +64239,7 @@ domain_suffix_set:
   - xhlkvx.xyz
   - xhm.pub
   - xhnvgdkw.xyz
+  - xholinqbbicfk.com
   - xhsdwjes.xyz
   - xhubsxmg.xyz
   - xhvaqgs.com
@@ -65663,6 +65682,7 @@ domain_suffix_set:
   - zopuqv.icu
   - zorango.com
   - zorkabiz.ru
+  - zotkosplh.com
   - zougreek.com
   - zouloafi.net
   - zounaishuphaucu.xyz

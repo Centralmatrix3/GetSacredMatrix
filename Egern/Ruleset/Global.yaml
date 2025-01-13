@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6793
+# 规则统计: 6809
 
 no_resolve: true
 domain_set:
@@ -53,6 +53,7 @@ domain_suffix_set:
   - 1mobile.com
   - 1mobile.tw
   - 1password.com
+  - 1point3acres.com
   - 1pondo.tv
   - 2-hand.info
   - 2000fun.com
@@ -138,6 +139,7 @@ domain_suffix_set:
   - 9001700.com
   - 908taiwan.org
   - 91porn.com
+  - 91porny.com
   - 91vps.club
   - 92ccav.com
   - 991.com
@@ -438,6 +440,7 @@ domain_suffix_set:
   - atlaspost.com
   - atnext.com
   - auctions.yahoo.co.jp
+  - audacy.com
   - audionow.com
   - auntology.fandom.com
   - authorizeddns.net
@@ -978,6 +981,7 @@ domain_suffix_set:
   - cdp2006.org
   - cdpa.url.tw
   - cdpeu.org
+  - cdpuk.co.uk
   - cdpusa.org
   - cdpweb.org
   - cdpwu.org
@@ -1407,6 +1411,7 @@ domain_suffix_set:
   - ddns.net
   - ddns.us
   - de-sci.org
+  - deadhouse.org
   - deadline.com
   - deaftone.com
   - debug.com
@@ -1931,6 +1936,7 @@ domain_suffix_set:
   - firstfivefollowers.com
   - firstpost.com
   - firstrade.com
+  - fish.audio
   - fizzik.com
   - flagsonline.it
   - flecheinthepeche.fr
@@ -2858,6 +2864,7 @@ domain_suffix_set:
   - hrtsea.com
   - hrw.org
   - hrweb.org
+  - hsex.men
   - hsjp.net
   - hsselite.com
   - hst.net.tw
@@ -3033,6 +3040,7 @@ domain_suffix_set:
   - indiemerch.com
   - info-graf.fr
   - informer.com
+  - inherit.live
   - initiativesforchina.org
   - inkbunny.net
   - inkui.com
@@ -3710,6 +3718,7 @@ domain_suffix_set:
   - minzhuhua.net
   - minzhuzhanxian.com
   - minzhuzhongguo.org
+  - miraheze.org
   - miroguide.com
   - mirrorbooks.com
   - mirrormedia.mg
@@ -3753,6 +3762,7 @@ domain_suffix_set:
   - mojim.com
   - mol.gov.tw
   - molihua.org
+  - momoshop.com.tw
   - monar.ch
   - mondex.org
   - money-link.com.tw
@@ -4614,6 +4624,7 @@ domain_suffix_set:
   - radicalparty.org
   - radiko.jp
   - radio-canada.ca
+  - radio-en-ligne.fr
   - radio.garden
   - radioaustralia.net.au
   - radiohilight.net
@@ -5013,6 +5024,7 @@ domain_suffix_set:
   - slandr.net
   - slaytizle.com
   - sleazydream.com
+  - sleazyfork.org
   - slheng.com
   - slickvpn.com
   - slides.new
@@ -5123,6 +5135,7 @@ domain_suffix_set:
   - spotflux.com
   - spotify.com
   - spreadshirt.es
+  - spreaker.com
   - spring.io
   - spring.net
   - spring4u.info
@@ -5557,7 +5570,9 @@ domain_suffix_set:
   - ticket.com.tw
   - tigervpn.com
   - tiktok.com
+  - tiktokcdn-us.com
   - tiktokv.com
+  - tiktokv.us
   - tiltbrush.com
   - timdir.com
   - time.com
@@ -6599,6 +6614,7 @@ domain_suffix_set:
   - yyjlymb.xyz
   - yysub.net
   - yzzk.com
+  - z-lib.io
   - z-lib.org
   - zacebook.com
   - zalmos.com
