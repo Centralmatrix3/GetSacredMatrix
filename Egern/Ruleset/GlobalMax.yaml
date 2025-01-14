@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 30990
+# 规则统计: 31000
 
 no_resolve: true
 domain_set:
@@ -278,6 +278,7 @@ domain_suffix_set:
   - 1mobile.tw
   - 1monsterbeatsbydreus.com
   - 1password.com
+  - 1point3acres.com
   - 1pondo.tv
   - 1pornlist.com
   - 1thek.com
@@ -2615,6 +2616,7 @@ domain_suffix_set:
   - aucb.ac.uk
   - aucheapbeats.com
   - aucyfrwngcymraeg.ac.uk
+  - audacy.com
   - aude.ac.uk
   - audelondon.ac.uk
   - audible.com
@@ -5766,6 +5768,7 @@ domain_suffix_set:
   - cdp1998.org
   - cdp2006.org
   - cdpeu.org
+  - cdpuk.co.uk
   - cdpusa.org
   - cdpweb.org
   - cdpwu.org
@@ -7359,6 +7362,7 @@ domain_suffix_set:
   - de-montfort.ac.uk
   - de-sci.org
   - de1lib.org
+  - deadhouse.org
   - deadline.com
   - deadspacegame.com
   - deafandcreative.ac.uk
@@ -10319,6 +10323,7 @@ domain_suffix_set:
   - firstprivatebank.com.mm
   - firstrade.com
   - fiscalstudies.ac.uk
+  - fish.audio
   - fishmpegs.com
   - fitbit.com
   - fitgirl-repacks.site
@@ -14216,6 +14221,7 @@ domain_suffix_set:
   - ingress.com
   - ingyenszexvideo.top
   - inherd.mom
+  - inherit.live
   - inhumanity.com
   - inikesneakers.com
   - init.shop
@@ -22459,6 +22465,7 @@ domain_suffix_set:
   - radicalparty.org
   - radiko.jp
   - radio-canada.ca
+  - radio-en-ligne.fr
   - radio.garden
   - radioaustralia.net.au
   - radiofarda.com
@@ -24389,6 +24396,7 @@ domain_suffix_set:
   - sldolls.com
   - sleaford.ac.uk
   - sleazydream.com
+  - sleazyfork.org
   - sleazyneasy.com
   - sleepandwakefulnessresearch.ac.uk
   - slg.ac.uk
@@ -24890,6 +24898,7 @@ domain_suffix_set:
   - spreadporn.org
   - spreadprivacy.com
   - spreadshirt.es
+  - spreaker.com
   - sprg.ac.uk
   - spring-plus.net
   - spring.io
@@ -30624,6 +30633,7 @@ domain_suffix_set:
   - yysub.net
   - yzld188.top
   - yzzk.com
+  - z-lib.io
   - z-lib.org
   - z-library.se
   - z00.world
