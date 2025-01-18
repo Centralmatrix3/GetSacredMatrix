@@ -1,5 +1,5 @@
 # 规则名称: Advertising
-# 规则统计: 122577
+# 规则统计: 122579
 
 payload:
   - '+.0.101tubeporn.com'
@@ -1357,6 +1357,7 @@ payload:
   - '+.2h6skj2da.de'
   - '+.2hdn.online'
   - '+.2hisnd.com'
+  - '+.2hl.fun'
   - '+.2hpb1i5th.de'
   - '+.2i30i8h6i.de'
   - '+.2i87bpcbf.de'
@@ -75844,6 +75845,7 @@ payload:
   - '+.oritooep.win'
   - '+.orjfun.com'
   - '+.orjlap.augustin-group.de'
+  - '+.orkreats.com'
   - '+.orkwithcatukhy.com'
   - '+.orl9rx6cc949w41s.ig.cubegroup.pl'
   - '+.orlandowaggons.com'
