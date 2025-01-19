@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6809
+# 规则统计: 6814
 
 no_resolve: true
 domain_set:
@@ -160,6 +160,7 @@ domain_suffix_set:
   - abc.xyz
   - abchinese.com
   - abclite.net
+  - abebooks.co.uk
   - abebooks.com
   - abematv.akamaized.net
   - abitno.linpie.com
@@ -920,6 +921,7 @@ domain_suffix_set:
   - cari.com.my
   - caribbeancom.com
   - carmotorshow.com
+  - carousell.com.hk
   - carrd.co
   - carryzhou.com
   - cartoonmovement.com
@@ -1009,6 +1011,7 @@ domain_suffix_set:
   - changp.com
   - changsa.net
   - channelnewsasia.com
+  - chanworld.org
   - chaoex.com
   - chapm25.com
   - chat.lmsys.org
@@ -1182,7 +1185,6 @@ domain_suffix_set:
   - cmule.org
   - cmx.im
   - cn-proxy.com
-  - cn.dayabook.com
   - cn.fmnnow.com
   - cn.freeones.com
   - cn.giganews.com
@@ -1263,6 +1265,7 @@ domain_suffix_set:
   - coolloud.org.tw
   - coolncute.com
   - coolstuffinc.com
+  - copilot.microsoft.com
   - corumcollege.com
   - cos-moe.com
   - cosmic.monar.ch
@@ -1385,6 +1388,7 @@ domain_suffix_set:
   - darktoy.net
   - darpa.mil
   - darrenliuwei.com
+  - dashlane.com
   - dastrassi.org
   - data-vocabulary.org
   - data.flurry.com
@@ -4459,6 +4463,7 @@ domain_suffix_set:
   - polymer-project.org
   - polymerhk.com
   - poolin.com
+  - popai.pro
   - popo.tw
   - popvote.hk
   - popxi.click
@@ -6081,6 +6086,7 @@ domain_suffix_set:
   - vovo2000.com
   - voxer.com
   - voy.com
+  - vpl.bibliocommons.com
   - vpn.ac
   - vpn.cmu.edu
   - vpn.sv.cmu.edu
@@ -6255,7 +6261,6 @@ domain_suffix_set:
   - widevine.com
   - wikaba.com
   - wiki.cnitter.com
-  - wiki.esu.im
   - wiki.gamerp.jp
   - wiki.jqueryui.com
   - wiki.keso.cn

@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117602
+# 规则统计: 117605
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -114197,6 +114197,7 @@ IP6-CIDR,2404:2280:170::/48,ChinaMax
 IP6-CIDR,2404:2280:177::/48,ChinaMax
 IP6-CIDR,2404:2280:181::/48,ChinaMax
 IP6-CIDR,2404:2280:183::/48,ChinaMax
+IP6-CIDR,2404:2280:18a::/48,ChinaMax
 IP6-CIDR,2404:2280:193::/48,ChinaMax
 IP6-CIDR,2404:2280:196::/48,ChinaMax
 IP6-CIDR,2404:2280:198::/45,ChinaMax
@@ -117384,6 +117385,7 @@ IP6-CIDR,2a0f:7803:ff10:2000::/51,ChinaMax
 IP6-CIDR,2a0f:7804:f650::/44,ChinaMax
 IP6-CIDR,2a0f:7804:f9f0::/44,ChinaMax
 IP6-CIDR,2a0f:7807::/32,ChinaMax
+IP6-CIDR,2a0f:7d07::/32,ChinaMax
 IP6-CIDR,2a0f:85c1:816::/48,ChinaMax
 IP6-CIDR,2a0f:85c1:89a::/48,ChinaMax
 IP6-CIDR,2a0f:85c1:8f4::/48,ChinaMax
@@ -117551,6 +117553,7 @@ IP6-CIDR,2a14:67c1:808::/48,ChinaMax
 IP6-CIDR,2a14:67c1:a02f::/48,ChinaMax
 IP6-CIDR,2a14:7580:9200::/40,ChinaMax
 IP6-CIDR,2a14:7580:9400::/39,ChinaMax
+IP6-CIDR,2a14:7580:9600::/48,ChinaMax
 IP6-CIDR,2a14:7580:c000::/35,ChinaMax
 IP6-CIDR,2a14:7580:e200::/40,ChinaMax
 IP6-CIDR,2a14:7580:e484::/48,ChinaMax

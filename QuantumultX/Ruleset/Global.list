@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6809
+# 规则统计: 6814
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -157,6 +157,7 @@ HOST-SUFFIX,abc.pp.ru,Global
 HOST-SUFFIX,abc.xyz,Global
 HOST-SUFFIX,abchinese.com,Global
 HOST-SUFFIX,abclite.net,Global
+HOST-SUFFIX,abebooks.co.uk,Global
 HOST-SUFFIX,abebooks.com,Global
 HOST-SUFFIX,abematv.akamaized.net,Global
 HOST-SUFFIX,abitno.linpie.com,Global
@@ -917,6 +918,7 @@ HOST-SUFFIX,carfax.com,Global
 HOST-SUFFIX,cari.com.my,Global
 HOST-SUFFIX,caribbeancom.com,Global
 HOST-SUFFIX,carmotorshow.com,Global
+HOST-SUFFIX,carousell.com.hk,Global
 HOST-SUFFIX,carrd.co,Global
 HOST-SUFFIX,carryzhou.com,Global
 HOST-SUFFIX,cartoonmovement.com,Global
@@ -1006,6 +1008,7 @@ HOST-SUFFIX,changeip.org,Global
 HOST-SUFFIX,changp.com,Global
 HOST-SUFFIX,changsa.net,Global
 HOST-SUFFIX,channelnewsasia.com,Global
+HOST-SUFFIX,chanworld.org,Global
 HOST-SUFFIX,chaoex.com,Global
 HOST-SUFFIX,chapm25.com,Global
 HOST-SUFFIX,chat.lmsys.org,Global
@@ -1179,7 +1182,6 @@ HOST-SUFFIX,cmule.com,Global
 HOST-SUFFIX,cmule.org,Global
 HOST-SUFFIX,cmx.im,Global
 HOST-SUFFIX,cn-proxy.com,Global
-HOST-SUFFIX,cn.dayabook.com,Global
 HOST-SUFFIX,cn.fmnnow.com,Global
 HOST-SUFFIX,cn.freeones.com,Global
 HOST-SUFFIX,cn.giganews.com,Global
@@ -1260,6 +1262,7 @@ HOST-SUFFIX,coolder.com,Global
 HOST-SUFFIX,coolloud.org.tw,Global
 HOST-SUFFIX,coolncute.com,Global
 HOST-SUFFIX,coolstuffinc.com,Global
+HOST-SUFFIX,copilot.microsoft.com,Global
 HOST-SUFFIX,corumcollege.com,Global
 HOST-SUFFIX,cos-moe.com,Global
 HOST-SUFFIX,cosmic.monar.ch,Global
@@ -1382,6 +1385,7 @@ HOST-SUFFIX,darktech.org,Global
 HOST-SUFFIX,darktoy.net,Global
 HOST-SUFFIX,darpa.mil,Global
 HOST-SUFFIX,darrenliuwei.com,Global
+HOST-SUFFIX,dashlane.com,Global
 HOST-SUFFIX,dastrassi.org,Global
 HOST-SUFFIX,data-vocabulary.org,Global
 HOST-SUFFIX,data.flurry.com,Global
@@ -4456,6 +4460,7 @@ HOST-SUFFIX,poloniex.com,Global
 HOST-SUFFIX,polymer-project.org,Global
 HOST-SUFFIX,polymerhk.com,Global
 HOST-SUFFIX,poolin.com,Global
+HOST-SUFFIX,popai.pro,Global
 HOST-SUFFIX,popo.tw,Global
 HOST-SUFFIX,popvote.hk,Global
 HOST-SUFFIX,popxi.click,Global
@@ -6078,6 +6083,7 @@ HOST-SUFFIX,vot.org,Global
 HOST-SUFFIX,vovo2000.com,Global
 HOST-SUFFIX,voxer.com,Global
 HOST-SUFFIX,voy.com,Global
+HOST-SUFFIX,vpl.bibliocommons.com,Global
 HOST-SUFFIX,vpn.ac,Global
 HOST-SUFFIX,vpn.cmu.edu,Global
 HOST-SUFFIX,vpn.sv.cmu.edu,Global
@@ -6252,7 +6258,6 @@ HOST-SUFFIX,whyx.org,Global
 HOST-SUFFIX,widevine.com,Global
 HOST-SUFFIX,wikaba.com,Global
 HOST-SUFFIX,wiki.cnitter.com,Global
-HOST-SUFFIX,wiki.esu.im,Global
 HOST-SUFFIX,wiki.gamerp.jp,Global
 HOST-SUFFIX,wiki.jqueryui.com,Global
 HOST-SUFFIX,wiki.keso.cn,Global

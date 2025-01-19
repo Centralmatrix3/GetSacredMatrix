@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 30990
+# 规则统计: 30993
 
 payload:
   - '3dns-1.adobe.com'
@@ -1139,6 +1139,7 @@ payload:
   - '+.abdn-online.ac.uk'
   - '+.abdn.ac.uk'
   - '+.abeatsbydrdre.com'
+  - '+.abebooks.co.uk'
   - '+.abebooks.com'
   - '+.abellalist.com'
   - '+.abema-tv.com'
@@ -5957,6 +5958,7 @@ payload:
   - '+.carmotorshow.com'
   - '+.carnegie.ac.uk'
   - '+.carnegiecollege.ac.uk'
+  - '+.carousell.com.hk'
   - '+.carr-lse.ac.uk'
   - '+.carrd.co'
   - '+.carshalton.ac.uk'
@@ -6321,6 +6323,7 @@ payload:
   - '+.changp.com'
   - '+.changsa.net'
   - '+.channelnewsasia.com'
+  - '+.chanworld.org'
   - '+.chaoex.com'
   - '+.chapm25.com'
   - '+.chargenow.com'
@@ -6914,7 +6917,6 @@ payload:
   - '+.cmule.org'
   - '+.cmx.im'
   - '+.cn-proxy.com'
-  - '+.cn.dayabook.com'
   - '+.cn.fmnnow.com'
   - '+.cn.giganews.com'
   - '+.cn.ibtimes.com'
@@ -7745,6 +7747,7 @@ payload:
   - '+.dasaob.online'
   - '+.dasg.ac.uk'
   - '+.dash-1.ac.uk'
+  - '+.dashlane.com'
   - '+.dashwood360.com'
   - '+.dassh.ac.uk'
   - '+.dastanhisexy.cc'
@@ -9759,7 +9762,6 @@ payload:
   - '+.essexacl.ac.uk'
   - '+.estudio360.com.co'
   - '+.estudiopenthouse.com'
-  - '+.esu.dog'
   - '+.esurance.com'
   - '+.etaa.org.au'
   - '+.etadult.com'
@@ -21784,6 +21786,7 @@ payload:
   - '+.poop-pee.online'
   - '+.poopee-puke.com'
   - '+.poopeegirls.com'
+  - '+.popai.pro'
   - '+.popcap.com'
   - '+.popjav.tv'
   - '+.popo.tw'
@@ -28675,6 +28678,7 @@ payload:
   - '+.voyeurporntapes.com'
   - '+.voyeurstyle.com'
   - '+.voyeurweb.com'
+  - '+.vpl.bibliocommons.com'
   - '+.vpn.ac'
   - '+.vpn4all.com'
   - '+.vpnaccount.org'
@@ -29200,7 +29204,6 @@ payload:
   - '+.wikaba.com'
   - '+.wikawika.xyz'
   - '+.wiki.cnitter.com'
-  - '+.wiki.esu.im'
   - '+.wiki.gamerp.jp'
   - '+.wiki.keso.cn'
   - '+.wiki.moegirl.org'

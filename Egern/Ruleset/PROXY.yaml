@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 30990
+# 规则统计: 30993
 
 domain_set:
   - 3dns-1.adobe.com
@@ -1140,6 +1140,7 @@ domain_suffix_set:
   - abdn-online.ac.uk
   - abdn.ac.uk
   - abeatsbydrdre.com
+  - abebooks.co.uk
   - abebooks.com
   - abellalist.com
   - abema-tv.com
@@ -5958,6 +5959,7 @@ domain_suffix_set:
   - carmotorshow.com
   - carnegie.ac.uk
   - carnegiecollege.ac.uk
+  - carousell.com.hk
   - carr-lse.ac.uk
   - carrd.co
   - carshalton.ac.uk
@@ -6322,6 +6324,7 @@ domain_suffix_set:
   - changp.com
   - changsa.net
   - channelnewsasia.com
+  - chanworld.org
   - chaoex.com
   - chapm25.com
   - chargenow.com
@@ -6915,7 +6918,6 @@ domain_suffix_set:
   - cmule.org
   - cmx.im
   - cn-proxy.com
-  - cn.dayabook.com
   - cn.fmnnow.com
   - cn.giganews.com
   - cn.ibtimes.com
@@ -7746,6 +7748,7 @@ domain_suffix_set:
   - dasaob.online
   - dasg.ac.uk
   - dash-1.ac.uk
+  - dashlane.com
   - dashwood360.com
   - dassh.ac.uk
   - dastanhisexy.cc
@@ -9760,7 +9763,6 @@ domain_suffix_set:
   - essexacl.ac.uk
   - estudio360.com.co
   - estudiopenthouse.com
-  - esu.dog
   - esurance.com
   - etaa.org.au
   - etadult.com
@@ -21785,6 +21787,7 @@ domain_suffix_set:
   - poop-pee.online
   - poopee-puke.com
   - poopeegirls.com
+  - popai.pro
   - popcap.com
   - popjav.tv
   - popo.tw
@@ -28676,6 +28679,7 @@ domain_suffix_set:
   - voyeurporntapes.com
   - voyeurstyle.com
   - voyeurweb.com
+  - vpl.bibliocommons.com
   - vpn.ac
   - vpn4all.com
   - vpnaccount.org
@@ -29201,7 +29205,6 @@ domain_suffix_set:
   - wikaba.com
   - wikawika.xyz
   - wiki.cnitter.com
-  - wiki.esu.im
   - wiki.gamerp.jp
   - wiki.keso.cn
   - wiki.moegirl.org

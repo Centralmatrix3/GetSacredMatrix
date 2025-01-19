@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6809
+# 规则统计: 6814
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -157,6 +157,7 @@ DOMAIN-SUFFIX,abc.pp.ru
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abchinese.com
 DOMAIN-SUFFIX,abclite.net
+DOMAIN-SUFFIX,abebooks.co.uk
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,abitno.linpie.com
@@ -917,6 +918,7 @@ DOMAIN-SUFFIX,carfax.com
 DOMAIN-SUFFIX,cari.com.my
 DOMAIN-SUFFIX,caribbeancom.com
 DOMAIN-SUFFIX,carmotorshow.com
+DOMAIN-SUFFIX,carousell.com.hk
 DOMAIN-SUFFIX,carrd.co
 DOMAIN-SUFFIX,carryzhou.com
 DOMAIN-SUFFIX,cartoonmovement.com
@@ -1006,6 +1008,7 @@ DOMAIN-SUFFIX,changeip.org
 DOMAIN-SUFFIX,changp.com
 DOMAIN-SUFFIX,changsa.net
 DOMAIN-SUFFIX,channelnewsasia.com
+DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,chaoex.com
 DOMAIN-SUFFIX,chapm25.com
 DOMAIN-SUFFIX,chat.lmsys.org
@@ -1179,7 +1182,6 @@ DOMAIN-SUFFIX,cmule.com
 DOMAIN-SUFFIX,cmule.org
 DOMAIN-SUFFIX,cmx.im
 DOMAIN-SUFFIX,cn-proxy.com
-DOMAIN-SUFFIX,cn.dayabook.com
 DOMAIN-SUFFIX,cn.fmnnow.com
 DOMAIN-SUFFIX,cn.freeones.com
 DOMAIN-SUFFIX,cn.giganews.com
@@ -1260,6 +1262,7 @@ DOMAIN-SUFFIX,coolder.com
 DOMAIN-SUFFIX,coolloud.org.tw
 DOMAIN-SUFFIX,coolncute.com
 DOMAIN-SUFFIX,coolstuffinc.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,corumcollege.com
 DOMAIN-SUFFIX,cos-moe.com
 DOMAIN-SUFFIX,cosmic.monar.ch
@@ -1382,6 +1385,7 @@ DOMAIN-SUFFIX,darktech.org
 DOMAIN-SUFFIX,darktoy.net
 DOMAIN-SUFFIX,darpa.mil
 DOMAIN-SUFFIX,darrenliuwei.com
+DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,dastrassi.org
 DOMAIN-SUFFIX,data-vocabulary.org
 DOMAIN-SUFFIX,data.flurry.com
@@ -4456,6 +4460,7 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,poolin.com
+DOMAIN-SUFFIX,popai.pro
 DOMAIN-SUFFIX,popo.tw
 DOMAIN-SUFFIX,popvote.hk
 DOMAIN-SUFFIX,popxi.click
@@ -6078,6 +6083,7 @@ DOMAIN-SUFFIX,vot.org
 DOMAIN-SUFFIX,vovo2000.com
 DOMAIN-SUFFIX,voxer.com
 DOMAIN-SUFFIX,voy.com
+DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.ac
 DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
@@ -6252,7 +6258,6 @@ DOMAIN-SUFFIX,whyx.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wikaba.com
 DOMAIN-SUFFIX,wiki.cnitter.com
-DOMAIN-SUFFIX,wiki.esu.im
 DOMAIN-SUFFIX,wiki.gamerp.jp
 DOMAIN-SUFFIX,wiki.jqueryui.com
 DOMAIN-SUFFIX,wiki.keso.cn

@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 30990
+# 规则统计: 30993
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -1138,6 +1138,7 @@ HOST-SUFFIX,abdn-access-biomedical.ac.uk,PROXY
 HOST-SUFFIX,abdn-online.ac.uk,PROXY
 HOST-SUFFIX,abdn.ac.uk,PROXY
 HOST-SUFFIX,abeatsbydrdre.com,PROXY
+HOST-SUFFIX,abebooks.co.uk,PROXY
 HOST-SUFFIX,abebooks.com,PROXY
 HOST-SUFFIX,abellalist.com,PROXY
 HOST-SUFFIX,abema-tv.com,PROXY
@@ -5956,6 +5957,7 @@ HOST-SUFFIX,carmer.ac.uk,PROXY
 HOST-SUFFIX,carmotorshow.com,PROXY
 HOST-SUFFIX,carnegie.ac.uk,PROXY
 HOST-SUFFIX,carnegiecollege.ac.uk,PROXY
+HOST-SUFFIX,carousell.com.hk,PROXY
 HOST-SUFFIX,carr-lse.ac.uk,PROXY
 HOST-SUFFIX,carrd.co,PROXY
 HOST-SUFFIX,carshalton.ac.uk,PROXY
@@ -6320,6 +6322,7 @@ HOST-SUFFIX,changing-arctic-ocean.ac.uk,PROXY
 HOST-SUFFIX,changp.com,PROXY
 HOST-SUFFIX,changsa.net,PROXY
 HOST-SUFFIX,channelnewsasia.com,PROXY
+HOST-SUFFIX,chanworld.org,PROXY
 HOST-SUFFIX,chaoex.com,PROXY
 HOST-SUFFIX,chapm25.com,PROXY
 HOST-SUFFIX,chargenow.com,PROXY
@@ -6913,7 +6916,6 @@ HOST-SUFFIX,cmule.com,PROXY
 HOST-SUFFIX,cmule.org,PROXY
 HOST-SUFFIX,cmx.im,PROXY
 HOST-SUFFIX,cn-proxy.com,PROXY
-HOST-SUFFIX,cn.dayabook.com,PROXY
 HOST-SUFFIX,cn.fmnnow.com,PROXY
 HOST-SUFFIX,cn.giganews.com,PROXY
 HOST-SUFFIX,cn.ibtimes.com,PROXY
@@ -7744,6 +7746,7 @@ HOST-SUFFIX,darwinsourcecode.com,PROXY
 HOST-SUFFIX,dasaob.online,PROXY
 HOST-SUFFIX,dasg.ac.uk,PROXY
 HOST-SUFFIX,dash-1.ac.uk,PROXY
+HOST-SUFFIX,dashlane.com,PROXY
 HOST-SUFFIX,dashwood360.com,PROXY
 HOST-SUFFIX,dassh.ac.uk,PROXY
 HOST-SUFFIX,dastanhisexy.cc,PROXY
@@ -9758,7 +9761,6 @@ HOST-SUFFIX,essex.ac.uk,PROXY
 HOST-SUFFIX,essexacl.ac.uk,PROXY
 HOST-SUFFIX,estudio360.com.co,PROXY
 HOST-SUFFIX,estudiopenthouse.com,PROXY
-HOST-SUFFIX,esu.dog,PROXY
 HOST-SUFFIX,esurance.com,PROXY
 HOST-SUFFIX,etaa.org.au,PROXY
 HOST-SUFFIX,etadult.com,PROXY
@@ -21783,6 +21785,7 @@ HOST-SUFFIX,poolin.com,PROXY
 HOST-SUFFIX,poop-pee.online,PROXY
 HOST-SUFFIX,poopee-puke.com,PROXY
 HOST-SUFFIX,poopeegirls.com,PROXY
+HOST-SUFFIX,popai.pro,PROXY
 HOST-SUFFIX,popcap.com,PROXY
 HOST-SUFFIX,popjav.tv,PROXY
 HOST-SUFFIX,popo.tw,PROXY
@@ -28674,6 +28677,7 @@ HOST-SUFFIX,voyeurpapa.com,PROXY
 HOST-SUFFIX,voyeurporntapes.com,PROXY
 HOST-SUFFIX,voyeurstyle.com,PROXY
 HOST-SUFFIX,voyeurweb.com,PROXY
+HOST-SUFFIX,vpl.bibliocommons.com,PROXY
 HOST-SUFFIX,vpn.ac,PROXY
 HOST-SUFFIX,vpn4all.com,PROXY
 HOST-SUFFIX,vpnaccount.org,PROXY
@@ -29199,7 +29203,6 @@ HOST-SUFFIX,wiivc.net,PROXY
 HOST-SUFFIX,wikaba.com,PROXY
 HOST-SUFFIX,wikawika.xyz,PROXY
 HOST-SUFFIX,wiki.cnitter.com,PROXY
-HOST-SUFFIX,wiki.esu.im,PROXY
 HOST-SUFFIX,wiki.gamerp.jp,PROXY
 HOST-SUFFIX,wiki.keso.cn,PROXY
 HOST-SUFFIX,wiki.moegirl.org,PROXY
