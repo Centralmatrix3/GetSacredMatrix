@@ -1,5 +1,5 @@
 # 规则名称: REJECT
-# 规则统计: 66112
+# 规则统计: 66119
 
 HOST-SUFFIX,0.code.cotsta.ru,REJECT
 HOST-SUFFIX,0.myikas.com,REJECT
@@ -1022,6 +1022,7 @@ HOST-SUFFIX,4b7140e260.com,REJECT
 HOST-SUFFIX,4bad5cdf48.com,REJECT
 HOST-SUFFIX,4bfx0u.com,REJECT
 HOST-SUFFIX,4c935d6a244f.com,REJECT
+HOST-SUFFIX,4ce.fun,REJECT
 HOST-SUFFIX,4cinsights.com,REJECT
 HOST-SUFFIX,4clicker.pro,REJECT
 HOST-SUFFIX,4co7mbsb.de,REJECT
@@ -7533,6 +7534,7 @@ HOST-SUFFIX,analytics.nextopia.net,REJECT
 HOST-SUFFIX,analytics.ngs55.ru,REJECT
 HOST-SUFFIX,analytics.nhattao.com,REJECT
 HOST-SUFFIX,analytics.nianticlabs.com,REJECT
+HOST-SUFFIX,analytics.nike.com,REJECT
 HOST-SUFFIX,analytics.nikkasystems.com,REJECT
 HOST-SUFFIX,analytics.nodecraft.com,REJECT
 HOST-SUFFIX,analytics.nova.foxsports.com,REJECT
@@ -13358,6 +13360,7 @@ HOST-SUFFIX,ccmiocw.com,REJECT
 HOST-SUFFIX,ccn08sth.de,REJECT
 HOST-SUFFIX,ccnnetwork.co,REJECT
 HOST-SUFFIX,ccobksxz.icu,REJECT
+HOST-SUFFIX,ccokamif.top,REJECT
 HOST-SUFFIX,ccpmo.com,REJECT
 HOST-SUFFIX,ccrkpsu.com,REJECT
 HOST-SUFFIX,ccrtvi.com,REJECT
@@ -25216,6 +25219,7 @@ HOST-SUFFIX,gauntletjanitorjail.com,REJECT
 HOST-SUFFIX,gauntletslacken.com,REJECT
 HOST-SUFFIX,gaupaufi.net,REJECT
 HOST-SUFFIX,gaupsaur.xyz,REJECT
+HOST-SUFFIX,gauqoith.com,REJECT
 HOST-SUFFIX,gaushaih.xyz,REJECT
 HOST-SUFFIX,gaustele.xyz,REJECT
 HOST-SUFFIX,gautmont.fr,REJECT
@@ -27189,6 +27193,7 @@ HOST-SUFFIX,h5v.eu,REJECT
 HOST-SUFFIX,h6.helenrosi.com,REJECT
 HOST-SUFFIX,h6295.com,REJECT
 HOST-SUFFIX,h689.nydailynews.com,REJECT
+HOST-SUFFIX,h6o.fun,REJECT
 HOST-SUFFIX,h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me,REJECT
 HOST-SUFFIX,h7.helenrosi.com,REJECT
 HOST-SUFFIX,h74v6kerf.com,REJECT
@@ -48258,6 +48263,7 @@ HOST-SUFFIX,rozamimo9za10.com,REJECT
 HOST-SUFFIX,rpazaa.xyz,REJECT
 HOST-SUFFIX,rpe.co.il,REJECT
 HOST-SUFFIX,rpeutxu.icu,REJECT
+HOST-SUFFIX,rpfuvj.icu,REJECT
 HOST-SUFFIX,rpfytkt.com,REJECT
 HOST-SUFFIX,rpgmasterleague.com,REJECT
 HOST-SUFFIX,rpjkwhkxh.com,REJECT
@@ -58538,6 +58544,7 @@ HOST-SUFFIX,tutsterblanche.com,REJECT
 HOST-SUFFIX,tututiki.com,REJECT
 HOST-SUFFIX,tutvp.com,REJECT
 HOST-SUFFIX,tuvanruttien.com,REJECT
+HOST-SUFFIX,tuvrutsnf.com,REJECT
 HOST-SUFFIX,tuvwryunm.xyz,REJECT
 HOST-SUFFIX,tuwaqtjcood.com,REJECT
 HOST-SUFFIX,tuxbpnne.com,REJECT

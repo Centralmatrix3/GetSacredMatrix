@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31000
+# 规则统计: 31006
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -748,6 +748,7 @@ HOST-SUFFIX,abdn-access-biomedical.ac.uk,GlobalMax
 HOST-SUFFIX,abdn-online.ac.uk,GlobalMax
 HOST-SUFFIX,abdn.ac.uk,GlobalMax
 HOST-SUFFIX,abeatsbydrdre.com,GlobalMax
+HOST-SUFFIX,abebooks.co.uk,GlobalMax
 HOST-SUFFIX,abebooks.com,GlobalMax
 HOST-SUFFIX,abellalist.com,GlobalMax
 HOST-SUFFIX,abema-tv.com,GlobalMax
@@ -5540,6 +5541,7 @@ HOST-SUFFIX,carmer.ac.uk,GlobalMax
 HOST-SUFFIX,carmotorshow.com,GlobalMax
 HOST-SUFFIX,carnegie.ac.uk,GlobalMax
 HOST-SUFFIX,carnegiecollege.ac.uk,GlobalMax
+HOST-SUFFIX,carousell.com.hk,GlobalMax
 HOST-SUFFIX,carr-lse.ac.uk,GlobalMax
 HOST-SUFFIX,carrd.co,GlobalMax
 HOST-SUFFIX,carryzhou.com,GlobalMax
@@ -5901,6 +5903,7 @@ HOST-SUFFIX,changsa.net,GlobalMax
 HOST-SUFFIX,channel4.com,GlobalMax
 HOST-SUFFIX,channel5.com,GlobalMax
 HOST-SUFFIX,channelnewsasia.com,GlobalMax
+HOST-SUFFIX,chanworld.org,GlobalMax
 HOST-SUFFIX,chaoex.com,GlobalMax
 HOST-SUFFIX,chapm25.com,GlobalMax
 HOST-SUFFIX,chargenow.com,GlobalMax
@@ -7286,6 +7289,7 @@ HOST-SUFFIX,darwinsourcecode.com,GlobalMax
 HOST-SUFFIX,dasaob.online,GlobalMax
 HOST-SUFFIX,dasg.ac.uk,GlobalMax
 HOST-SUFFIX,dash-1.ac.uk,GlobalMax
+HOST-SUFFIX,dashlane.com,GlobalMax
 HOST-SUFFIX,dashwood360.com,GlobalMax
 HOST-SUFFIX,dassh.ac.uk,GlobalMax
 HOST-SUFFIX,dastanhisexy.cc,GlobalMax
@@ -21523,6 +21527,7 @@ HOST-SUFFIX,poolin.com,GlobalMax
 HOST-SUFFIX,poop-pee.online,GlobalMax
 HOST-SUFFIX,poopee-puke.com,GlobalMax
 HOST-SUFFIX,poopeegirls.com,GlobalMax
+HOST-SUFFIX,popai.pro,GlobalMax
 HOST-SUFFIX,popcap.com,GlobalMax
 HOST-SUFFIX,popjav.tv,GlobalMax
 HOST-SUFFIX,popo.tw,GlobalMax
@@ -28511,6 +28516,7 @@ HOST-SUFFIX,voyeurporntapes.com,GlobalMax
 HOST-SUFFIX,voyeurstyle.com,GlobalMax
 HOST-SUFFIX,voyeurweb.com,GlobalMax
 HOST-SUFFIX,vpejey.xyz,GlobalMax
+HOST-SUFFIX,vpl.bibliocommons.com,GlobalMax
 HOST-SUFFIX,vpn.ac,GlobalMax
 HOST-SUFFIX,vpn4all.com,GlobalMax
 HOST-SUFFIX,vpnaccount.org,GlobalMax
