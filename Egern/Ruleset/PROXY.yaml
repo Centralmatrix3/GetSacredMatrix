@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 30993
+# 规则统计: 31014
 
 domain_set:
   - 3dns-1.adobe.com
@@ -960,6 +960,7 @@ domain_suffix_set:
   - 69xx560.xyz
   - 6arabs.com
   - 6do.news
+  - 6do.world
   - 6e8xr2gk.me
   - 6japaneseporn.com
   - 6kea.com
@@ -1194,7 +1195,6 @@ domain_suffix_set:
   - absolutewhores.com
   - ac-pocketcamp.com
   - ac.ir
-  - ac.jiruan.net
   - acacia.ac.uk
   - academic-clinician.ac.uk
   - academic.eb.com
@@ -1606,6 +1606,7 @@ domain_suffix_set:
   - aimhigherwm.ac.uk
   - aims.ac.uk
   - aimsciences.org
+  - aiosearch.com
   - aipa553.com
   - aiph.net
   - air-nike-shoes.com
@@ -2167,6 +2168,7 @@ domain_suffix_set:
   - andovercollege.ac.uk
   - android-x86.org
   - android.com
+  - androidapksfree.com
   - androidauthority.com
   - androidfilehost.com
   - androidify.com
@@ -2877,6 +2879,7 @@ domain_suffix_set:
   - asiatgp.com
   - asiatoday.us
   - ask-sam.ac.uk
+  - ask.com
   - askfacebook.net
   - askfacebook.org
   - askham-bryan.ac.uk
@@ -3385,6 +3388,7 @@ domain_suffix_set:
   - b-ok.cc
   - b-ok.global
   - b-ok.org
+  - b.hatena.ne.jp
   - b0ne.com
   - b3boos.com
   - b6b33.com
@@ -3609,7 +3613,6 @@ domain_suffix_set:
   - bbs.cantonese.asia
   - bbs.ecstart.com
   - bbs.hanminzu.org
-  - bbs.hasi.wang
   - bbs.huasing.org
   - bbs.junglobal.net
   - bbs.kimy.com.tw
@@ -4108,6 +4111,7 @@ domain_suffix_set:
   - besttitstube.com
   - bestvpn.com
   - bestvpnanalysis.com
+  - bestvpnforchina.net
   - bestvpnserver.com
   - bestvpnservice.com
   - bestvpnusa.com
@@ -5147,6 +5151,7 @@ domain_suffix_set:
   - booksinprint.com
   - bookstagram.com
   - booktopia.com.au
+  - bookwalker.com.tw
   - booloo.com
   - boomba.club
   - boomerang.com
@@ -5917,6 +5922,7 @@ domain_suffix_set:
   - cao.im
   - caobian.info
   - caochangqing.com
+  - caoporn.us
   - cap.org.hk
   - cape.ac.uk
   - capel.ac.uk
@@ -6041,6 +6047,7 @@ domain_suffix_set:
   - catmiimi.com
   - cato.org
   - cattt.com
+  - caus.com
   - causeway.ac.uk
   - cava.ac.uk
   - cavc.ac.uk
@@ -6326,7 +6333,9 @@ domain_suffix_set:
   - channelnewsasia.com
   - chanworld.org
   - chaoex.com
+  - chaos.social
   - chapm25.com
+  - character.ai
   - chargenow.com
   - chargenowusa.com
   - charlemagne-icon.ac.uk
@@ -6502,6 +6511,7 @@ domain_suffix_set:
   - chinacomments.org
   - chinaculturalvisitinghub.ac.uk
   - chinadecoding.com
+  - chinademocrats.org
   - chinadialogue.net
   - chinadigitaltimes.net
   - chinaeconomicreview.com
@@ -8473,6 +8483,7 @@ domain_suffix_set:
   - doodhwali.com
   - doom.com
   - doom9.org
+  - doourbest.org
   - dopaminegirl.com
   - dorjeshugden.com
   - dorset-acl.ac.uk
@@ -10778,6 +10789,7 @@ domain_suffix_set:
   - flow.org
   - flowfront.com
   - flowfront.net
+  - flowhongkong.net
   - flowtype.org
   - fluidfxapp.com
   - fluidpreview.com
@@ -11083,6 +11095,7 @@ domain_suffix_set:
   - francecasquebeatssolde.com
   - francemail.com
   - francistowne.ac.uk
+  - frank2019.me
   - franklc.com
   - franklin.ac.uk
   - frcasquesbeats.com
@@ -11330,6 +11343,7 @@ domain_suffix_set:
   - fullfuli.com
   - fullhdxxx.com
   - fullpornnetwork.com
+  - fullservicegame.com
   - fullsexmovs.com
   - fulltaboo.tv
   - fullxxxmovies.net
@@ -11875,6 +11889,7 @@ domain_suffix_set:
   - glamorgan.ac.uk
   - glamourtits.com
   - glan-hafren.ac.uk
+  - glarity.app
   - glasamerike.net
   - glasgow-caledonian.ac.uk
   - glasgow-nautical.ac.uk
@@ -12065,7 +12080,6 @@ domain_suffix_set:
   - gongm.in
   - gongmeng.info
   - gongminliliang.com
-  - gongwt.com
   - gongyichuangyi.net
   - gonike.com
   - gonzo-movies.com
@@ -12074,11 +12088,13 @@ domain_suffix_set:
   - goo.gl
   - goo.ne.jp
   - good-gay.com
+  - good.news
   - gooday.xyz
   - gooddaychicago.com
   - gooddns.info
   - goodenough.ac.uk
   - goodhope.school
+  - goodnewsnetwork.org
   - goodporn.to
   - goodporno.cc
   - goodreaders.com
@@ -15328,6 +15344,7 @@ domain_suffix_set:
   - japaneselovelygirl.com
   - japanfirst.asianfreeforum.com
   - japanfist.org
+  - japanhdv.com
   - japanknowledge.com
   - japanporn.tv
   - japantimes.co.jp
@@ -15584,7 +15601,7 @@ domain_suffix_set:
   - jingpin.org
   - jingsim.org
   - jinpianwang.com
-  - jinroukong.com
+  - jinrizhiyi.news
   - jintian.net
   - jinx.com
   - jisc-collections.ac.uk
@@ -15653,6 +15670,7 @@ domain_suffix_set:
   - jmcomic1.mobi
   - jmcomic2.moe
   - jmlr.org
+  - jmsc.hku.hk
   - jmscult.com
   - jmu.ac.uk
   - jmvbt.com
@@ -15662,7 +15680,6 @@ domain_suffix_set:
   - joanabliss.com
   - jobmarket.com.hk
   - jobs.ac.uk
-  - jobso.tv
   - jodic-forum.org
   - joeswall.com
   - johnpersons.com
@@ -16142,6 +16159,7 @@ domain_suffix_set:
   - ktvu.com
   - ktzhk.com
   - ku77.xyz
+  - kuaichedao.co
   - kuaimao-app.com
   - kuaipa.net
   - kuanrenxs.com
@@ -17695,6 +17713,7 @@ domain_suffix_set:
   - mega.nz
   - megacamz.com
   - megafilmporno.com
+  - megalodon.jp
   - megamon.co.kr
   - megaphone.fm
   - megapornfreehd.com
@@ -17802,8 +17821,6 @@ domain_suffix_set:
   - mewe.com
   - mexc.com
   - mexcsensors.com
-  - meyou.jp
-  - meyul.com
   - mfg-inspector.com
   - mfmf.club
   - mfo.ac.uk
@@ -17834,7 +17851,6 @@ domain_suffix_set:
   - mib.ac.uk
   - mic.ac.uk
   - micb.gov.mm
-  - michaelanti.com
   - michaelmarketl.com
   - mickey.tv
   - mickybells.com
@@ -18496,6 +18512,7 @@ domain_suffix_set:
   - monbeats2013.com
   - mondex.org
   - money-link.com.tw
+  - moneydj.com
   - moneyhome.biz
   - moneywithfacebook.com
   - mongodb.com
@@ -20033,6 +20050,7 @@ domain_suffix_set:
   - northumberland.ac.uk
   - northumbria.ac.uk
   - norwichresearchpark.ac.uk
+  - nos.nl
   - notepad-plus-plus.org
   - notion-static.com
   - notion.com
@@ -20695,6 +20713,7 @@ domain_suffix_set:
   - opdems.ac.uk
   - open.ac.uk
   - open.com.hk
+  - open.firstory.me
   - openai.com
   - openallweb.com
   - openamt.com
@@ -21641,6 +21660,7 @@ domain_suffix_set:
   - plasticlabs.com
   - plastics-cadcam.com
   - platinumlinks.org
+  - play-asia.com
   - play-bmm.shop
   - play-bmmer.buzz
   - play4free.com
@@ -23076,7 +23096,6 @@ domain_suffix_set:
   - research-councils.ac.uk
   - research-scotland.ac.uk
   - research-socialsciences.ac.uk
-  - research.jmsc.hku.hk
   - research4justice.ac.uk
   - researchandcare.org
   - researchconcordat.ac.uk
@@ -24447,6 +24466,7 @@ domain_suffix_set:
   - simpcity.su
   - simplecd.org
   - simpleproductivityblog.com
+  - simpleswap.io
   - simplify.com
   - simplifycommerce.com
   - simply-hentai.com
@@ -24663,6 +24683,7 @@ domain_suffix_set:
   - smithinst.ac.uk
   - sml.ac.uk
   - smmsp.xyz
+  - smn.news
   - smokinmovies.com
   - smplace.com
   - smpte.org
@@ -24917,6 +24938,7 @@ domain_suffix_set:
   - sorting-algorithms.com
   - sos.org
   - sos44.com
+  - sosad.fun
   - soso7778.com
   - sosreader.com
   - sostibet.org
@@ -24974,6 +24996,7 @@ domain_suffix_set:
   - southgate.ac.uk
   - southgrid.ac.uk
   - southkent.ac.uk
+  - southmongolia.org
   - southnews.com.tw
   - southpark.cc.com
   - southport-college.ac.uk
@@ -25020,6 +25043,7 @@ domain_suffix_set:
   - sparsholtcollegegroup.ac.uk
   - sparsholtcollegeservices.ac.uk
   - sparsholtservices.ac.uk
+  - spatial.io
   - spatialeconomics.ac.uk
   - spb.com
   - spc.ac.uk
@@ -25031,6 +25055,7 @@ domain_suffix_set:
   - spectraltube.com
   - spectrum.ac.uk
   - specxinzl.jigsy.com
+  - speedcat.me
   - speeddreamride.com
   - speedfantasybid.com
   - speedhunters.com
@@ -26308,8 +26333,7 @@ domain_suffix_set:
   - thehealthsite.com
   - thehenleycollege.ac.uk
   - thehentaiworld.com
-  - thehots.info
-  - thehousenews.com
+  - thehindu.com
   - thehulubraintrust.com
   - thehun.net
   - theindianleaks.com
@@ -26411,6 +26435,7 @@ domain_suffix_set:
   - thevivekspot.com
   - theweek.in
   - thewgo.org
+  - thewirechina.com
   - thewomenslibrary.ac.uk
   - thewonderful101.com
   - theync.com
@@ -28994,7 +29019,6 @@ domain_suffix_set:
   - wefong.com
   - wego.here.com
   - weiboleak.com
-  - weiboscope.jmsc.hku.hk
   - weihuo.org
   - weijingsheng.org
   - weimi180.com
@@ -29291,7 +29315,6 @@ domain_suffix_set:
   - wintermute.com
   - winticket.jp
   - winudf.com
-  - winwhispers.info
   - wionews.com
   - wipower.com
   - wire.com
@@ -29631,9 +29654,7 @@ domain_suffix_set:
   - x1337x.ws
   - x18r.co
   - x18r.com
-  - x1949x.com
   - x24hr.com
-  - x365x.com
   - x3guide.com
   - x3vid.com
   - x6av.com

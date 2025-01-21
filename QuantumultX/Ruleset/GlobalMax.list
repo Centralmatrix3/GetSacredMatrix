@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31006
+# 规则统计: 31007
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -11705,6 +11705,7 @@ HOST-SUFFIX,goo.gl,GlobalMax
 HOST-SUFFIX,goo.gle,GlobalMax
 HOST-SUFFIX,goo.ne.jp,GlobalMax
 HOST-SUFFIX,good-gay.com,GlobalMax
+HOST-SUFFIX,good.news,GlobalMax
 HOST-SUFFIX,gooday.xyz,GlobalMax
 HOST-SUFFIX,gooddaychicago.com,GlobalMax
 HOST-SUFFIX,goodenough.ac.uk,GlobalMax

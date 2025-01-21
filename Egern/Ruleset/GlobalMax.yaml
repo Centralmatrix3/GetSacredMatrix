@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31006
+# 规则统计: 31007
 
 no_resolve: true
 domain_set:
@@ -11708,6 +11708,7 @@ domain_suffix_set:
   - goo.gle
   - goo.ne.jp
   - good-gay.com
+  - good.news
   - gooday.xyz
   - gooddaychicago.com
   - goodenough.ac.uk

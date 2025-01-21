@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31006
+# 规则统计: 31007
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -11705,6 +11705,7 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goo.gle
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,good-gay.com
+DOMAIN-SUFFIX,good.news
 DOMAIN-SUFFIX,gooday.xyz
 DOMAIN-SUFFIX,gooddaychicago.com
 DOMAIN-SUFFIX,goodenough.ac.uk
