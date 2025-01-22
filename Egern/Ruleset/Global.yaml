@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6855
+# 规则统计: 6868
 
 no_resolve: true
 domain_set:
@@ -356,7 +356,6 @@ domain_suffix_set:
   - api-secure.recaptcha.net
   - api-verify.recaptcha.net
   - api.ai
-  - api.dropboxapi.com
   - api.linksalpha.com
   - api.pureapk.com
   - api.recaptcha.net
@@ -769,6 +768,7 @@ domain_suffix_set:
   - bloomfortune.com
   - blubrry.com
   - blueangellive.com
+  - bmdru.com
   - bmfinn.com
   - bnbstatic.com
   - bnews.co
@@ -2082,6 +2082,7 @@ domain_suffix_set:
   - freexinwen.com
   - freeyellow.com
   - freeyoutubeproxy.net
+  - freezhihu.org
   - frienddy.com
   - friendfeed-media.com
   - friendfeed.com
@@ -3338,6 +3339,7 @@ domain_suffix_set:
   - kik.com
   - killwall.com
   - kimy.com.tw
+  - kindle4rss.com
   - kindleren.com
   - kineox.free.fr
   - kingdomsalvation.org
@@ -3783,6 +3785,7 @@ domain_suffix_set:
   - moeaic.gov.tw
   - moeerolibrary.com
   - moegirl.org
+  - moeshare.cc
   - mofa.gov.tw
   - mofaxiehui.com
   - mofos.com
@@ -4020,6 +4023,7 @@ domain_suffix_set:
   - news.ycombinator.com
   - news100.com.tw
   - newsancai.com
+  - newsblur.com
   - newschinacomment.org
   - newscn.org
   - newsdetox.ca
@@ -4100,7 +4104,6 @@ domain_suffix_set:
   - nordvpn.com
   - nos.nl
   - notepad-plus-plus.org
-  - notify.dropboxapi.com
   - notion.so
   - nottinghampost.com
   - novelasia.com
@@ -4455,10 +4458,12 @@ domain_suffix_set:
   - pixeldrain.com
   - pixelqi.com
   - pixiv.net
+  - pixivsketch.net
   - pixnet.in
   - pixnet.net
   - pk.com
   - pki.goog
+  - pkqjiasu.com
   - placemix.com
   - play-asia.com
   - playartifact.com
@@ -4627,6 +4632,7 @@ domain_suffix_set:
   - qi-gong.me
   - qianbai.tw
   - qiandao.today
+  - qianglie.com
   - qiangwaikan.com
   - qiangyou.org
   - qidian.ca
@@ -4702,6 +4708,7 @@ domain_suffix_set:
   - rd.com
   - rdio.com
   - rdtcdn.com
+  - reabble.com
   - read01.com
   - read100.com
   - readdle.com
@@ -4782,6 +4789,7 @@ domain_suffix_set:
   - roboforex.com
   - robustnessiskey.com
   - rocket-inc.net
+  - rocket.chat
   - rocketbbs.com
   - rocksdb.org
   - rojo.com
@@ -5629,6 +5637,7 @@ domain_suffix_set:
   - tinc-vpn.org
   - tiney.com
   - tineye.com
+  - tingtalk.me
   - tintuc101.com
   - tiny.cc
   - tinychat.com
@@ -6005,6 +6014,7 @@ domain_suffix_set:
   - usus.cc
   - utopianpal.com
   - uu-gg.com
+  - uujiasu.com
   - uukanshu.com
   - uvwxyz.xyz
   - uwants.com
@@ -6129,6 +6139,7 @@ domain_suffix_set:
   - vpl.bibliocommons.com
   - vpn.ac
   - vpn.cmu.edu
+  - vpn.net
   - vpn.sv.cmu.edu
   - vpn4all.com
   - vpnaccount.org
@@ -6248,6 +6259,7 @@ domain_suffix_set:
   - webwarper.net
   - webworkerdaily.com
   - wechatlawsuit.com
+  - weebly.com
   - weekmag.info
   - wefightcensorship.org
   - wefong.com
@@ -6304,7 +6316,6 @@ domain_suffix_set:
   - wiki.gamerp.jp
   - wiki.jqueryui.com
   - wiki.keso.cn
-  - wiki.moegirl.org
   - wiki.oauth.net
   - wiki.phonegap.com
   - wikia.com
@@ -6481,6 +6492,7 @@ domain_suffix_set:
   - xfiles.to
   - xfinity.com
   - xfm.pp.ru
+  - xfxssr.me
   - xgmyd.com
   - xhamster.com
   - xianba.net
@@ -6524,6 +6536,7 @@ domain_suffix_set:
   - xn--czq75pvv1aj5c.org
   - xn--i2ru8q2qg.com
   - xn--ngstr-lra8j.com
+  - xn--noss43i.com
   - xn--oiq.cc
   - xn--p8j9a0d9c9a.xn--q9jyb4c
   - xnxx-cdn.com

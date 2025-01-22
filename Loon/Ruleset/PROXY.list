@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 31014
+# 规则统计: 31021
 
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
@@ -4657,6 +4657,7 @@ DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,bm14.ac.uk
 DOMAIN-SUFFIX,bmac.ac.uk
 DOMAIN-SUFFIX,bmc.ac.uk
+DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bme.ac.uk
 DOMAIN-SUFFIX,bmet.ac.uk
 DOMAIN-SUFFIX,bmetc.ac.uk
@@ -18449,6 +18450,7 @@ DOMAIN-SUFFIX,moeero-library.com
 DOMAIN-SUFFIX,moeerolibrary.com
 DOMAIN-SUFFIX,moefuns.co
 DOMAIN-SUFFIX,moeimg.net
+DOMAIN-SUFFIX,moeshare.cc
 DOMAIN-SUFFIX,moez-m.com
 DOMAIN-SUFFIX,mof.kemomi.me
 DOMAIN-SUFFIX,mofaxiehui.com
@@ -19552,6 +19554,7 @@ DOMAIN-SUFFIX,newsadds.com.au
 DOMAIN-SUFFIX,newsamerica.com
 DOMAIN-SUFFIX,newsancai.com
 DOMAIN-SUFFIX,newsapi.com.au
+DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,newscareers.co.uk
 DOMAIN-SUFFIX,newscdn.com.au
 DOMAIN-SUFFIX,newschinacomment.org
@@ -19576,7 +19579,6 @@ DOMAIN-SUFFIX,newsmax.com
 DOMAIN-SUFFIX,newsmax.in
 DOMAIN-SUFFIX,newsmaxtv.com
 DOMAIN-SUFFIX,newsnowfox.com
-DOMAIN-SUFFIX,newspeak.cc
 DOMAIN-SUFFIX,newsprestigenetwork.com.au
 DOMAIN-SUFFIX,newsprinters.co.uk
 DOMAIN-SUFFIX,newssyndication.com
@@ -21632,6 +21634,7 @@ DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pixivsketch.net
 DOMAIN-SUFFIX,pixlr-o-matic.com
 DOMAIN-SUFFIX,pixlromatic.com
 DOMAIN-SUFFIX,pixnet.cc
@@ -21647,6 +21650,7 @@ DOMAIN-SUFFIX,pk.com
 DOMAIN-SUFFIX,pki-post.ch
 DOMAIN-SUFFIX,pki-posta.ch
 DOMAIN-SUFFIX,pki-poste.ch
+DOMAIN-SUFFIX,pkqjiasu.com
 DOMAIN-SUFFIX,placemix.com
 DOMAIN-SUFFIX,placemyad.com.au
 DOMAIN-SUFFIX,placesdocs.com
@@ -22554,6 +22558,7 @@ DOMAIN-SUFFIX,qhigh.com
 DOMAIN-SUFFIX,qi-gong.me
 DOMAIN-SUFFIX,qianbai.tw
 DOMAIN-SUFFIX,qiandao.today
+DOMAIN-SUFFIX,qianglie.com
 DOMAIN-SUFFIX,qiangwaikan.com
 DOMAIN-SUFFIX,qiangyou.org
 DOMAIN-SUFFIX,qiao-cn.com
@@ -22779,8 +22784,6 @@ DOMAIN-SUFFIX,rarbgunblock.com
 DOMAIN-SUFFIX,rarbgunblock.org
 DOMAIN-SUFFIX,rarbgunblocked.org
 DOMAIN-SUFFIX,rarbgway.org
-DOMAIN-SUFFIX,raremovie.cc
-DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,rareview.ac.uk
 DOMAIN-SUFFIX,ras.ac.uk
 DOMAIN-SUFFIX,rascal.ac.uk
@@ -22804,7 +22807,6 @@ DOMAIN-SUFFIX,razer.com
 DOMAIN-SUFFIX,razerofficial.com
 DOMAIN-SUFFIX,razersupport.com
 DOMAIN-SUFFIX,razerzone.jp
-DOMAIN-SUFFIX,razyboard.com
 DOMAIN-SUFFIX,rb-crisis.com
 DOMAIN-SUFFIX,rb.com
 DOMAIN-SUFFIX,rb.gy
@@ -23252,6 +23254,7 @@ DOMAIN-SUFFIX,robotoffice.com
 DOMAIN-SUFFIX,robustnessiskey.com
 DOMAIN-SUFFIX,rochdalesfc.ac.uk
 DOMAIN-SUFFIX,rocket-inc.net
+DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,rocketfishproducts.com
 DOMAIN-SUFFIX,rockettube.com
 DOMAIN-SUFFIX,rocksdb.com
@@ -26649,6 +26652,7 @@ DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,ting53.xyz
+DOMAIN-SUFFIX,tingtalk.me
 DOMAIN-SUFFIX,tinhduc.org
 DOMAIN-SUFFIX,tinkerboxapp.com
 DOMAIN-SUFFIX,tinkercad.com
@@ -27764,6 +27768,7 @@ DOMAIN-SUFFIX,uug23.com
 DOMAIN-SUFFIX,uug25.com
 DOMAIN-SUFFIX,uug26.com
 DOMAIN-SUFFIX,uug27.com
+DOMAIN-SUFFIX,uujiasu.com
 DOMAIN-SUFFIX,uuk.ac.uk
 DOMAIN-SUFFIX,uuk28.com
 DOMAIN-SUFFIX,uukanshu.com
@@ -28704,6 +28709,7 @@ DOMAIN-SUFFIX,voyeurstyle.com
 DOMAIN-SUFFIX,voyeurweb.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.ac
+DOMAIN-SUFFIX,vpn.net
 DOMAIN-SUFFIX,vpn4all.com
 DOMAIN-SUFFIX,vpnaccount.org
 DOMAIN-SUFFIX,vpnaccounts.com
@@ -28808,7 +28814,6 @@ DOMAIN-SUFFIX,waikeung.org
 DOMAIN-SUFFIX,wailaike.net
 DOMAIN-SUFFIX,wainao.me
 DOMAIN-SUFFIX,waisongcha.com
-DOMAIN-SUFFIX,waittingfor001.weebly.com
 DOMAIN-SUFFIX,waiwaier.com
 DOMAIN-SUFFIX,wakcoll.ac.uk
 DOMAIN-SUFFIX,wakefield.ac.uk
@@ -29010,6 +29015,7 @@ DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,webwarper.net
 DOMAIN-SUFFIX,webworkerdaily.com
 DOMAIN-SUFFIX,wechatlawsuit.com
+DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,weekly-economist.com
 DOMAIN-SUFFIX,weeklytimesnow.com.au
 DOMAIN-SUFFIX,weekmag.info
@@ -29229,7 +29235,6 @@ DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wiki.cnitter.com
 DOMAIN-SUFFIX,wiki.gamerp.jp
 DOMAIN-SUFFIX,wiki.keso.cn
-DOMAIN-SUFFIX,wiki.moegirl.org
 DOMAIN-SUFFIX,wiki.oauth.net
 DOMAIN-SUFFIX,wiki.phonegap.com
 DOMAIN-SUFFIX,wikia.com
@@ -29732,6 +29737,7 @@ DOMAIN-SUFFIX,xfm.pp.ru
 DOMAIN-SUFFIX,xfockers.com
 DOMAIN-SUFFIX,xfreehd.com
 DOMAIN-SUFFIX,xfuckonline.com
+DOMAIN-SUFFIX,xfxssr.me
 DOMAIN-SUFFIX,xgames.zone
 DOMAIN-SUFFIX,xgaytube.com
 DOMAIN-SUFFIX,xgaytube.tv
@@ -29879,6 +29885,7 @@ DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--mtswd61ejxq.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--noss43i.com
 DOMAIN-SUFFIX,xn--oiq.cc
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com

@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 31014
+# 规则统计: 31021
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -4657,6 +4657,7 @@ HOST-SUFFIX,blz-contentstack.com,PROXY
 HOST-SUFFIX,bm14.ac.uk,PROXY
 HOST-SUFFIX,bmac.ac.uk,PROXY
 HOST-SUFFIX,bmc.ac.uk,PROXY
+HOST-SUFFIX,bmdru.com,PROXY
 HOST-SUFFIX,bme.ac.uk,PROXY
 HOST-SUFFIX,bmet.ac.uk,PROXY
 HOST-SUFFIX,bmetc.ac.uk,PROXY
@@ -18449,6 +18450,7 @@ HOST-SUFFIX,moeero-library.com,PROXY
 HOST-SUFFIX,moeerolibrary.com,PROXY
 HOST-SUFFIX,moefuns.co,PROXY
 HOST-SUFFIX,moeimg.net,PROXY
+HOST-SUFFIX,moeshare.cc,PROXY
 HOST-SUFFIX,moez-m.com,PROXY
 HOST-SUFFIX,mof.kemomi.me,PROXY
 HOST-SUFFIX,mofaxiehui.com,PROXY
@@ -19552,6 +19554,7 @@ HOST-SUFFIX,newsadds.com.au,PROXY
 HOST-SUFFIX,newsamerica.com,PROXY
 HOST-SUFFIX,newsancai.com,PROXY
 HOST-SUFFIX,newsapi.com.au,PROXY
+HOST-SUFFIX,newsblur.com,PROXY
 HOST-SUFFIX,newscareers.co.uk,PROXY
 HOST-SUFFIX,newscdn.com.au,PROXY
 HOST-SUFFIX,newschinacomment.org,PROXY
@@ -19576,7 +19579,6 @@ HOST-SUFFIX,newsmax.com,PROXY
 HOST-SUFFIX,newsmax.in,PROXY
 HOST-SUFFIX,newsmaxtv.com,PROXY
 HOST-SUFFIX,newsnowfox.com,PROXY
-HOST-SUFFIX,newspeak.cc,PROXY
 HOST-SUFFIX,newsprestigenetwork.com.au,PROXY
 HOST-SUFFIX,newsprinters.co.uk,PROXY
 HOST-SUFFIX,newssyndication.com,PROXY
@@ -21632,6 +21634,7 @@ HOST-SUFFIX,pixiv.co.jp,PROXY
 HOST-SUFFIX,pixiv.me,PROXY
 HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,pixiv.org,PROXY
+HOST-SUFFIX,pixivsketch.net,PROXY
 HOST-SUFFIX,pixlr-o-matic.com,PROXY
 HOST-SUFFIX,pixlromatic.com,PROXY
 HOST-SUFFIX,pixnet.cc,PROXY
@@ -21647,6 +21650,7 @@ HOST-SUFFIX,pk.com,PROXY
 HOST-SUFFIX,pki-post.ch,PROXY
 HOST-SUFFIX,pki-posta.ch,PROXY
 HOST-SUFFIX,pki-poste.ch,PROXY
+HOST-SUFFIX,pkqjiasu.com,PROXY
 HOST-SUFFIX,placemix.com,PROXY
 HOST-SUFFIX,placemyad.com.au,PROXY
 HOST-SUFFIX,placesdocs.com,PROXY
@@ -22554,6 +22558,7 @@ HOST-SUFFIX,qhigh.com,PROXY
 HOST-SUFFIX,qi-gong.me,PROXY
 HOST-SUFFIX,qianbai.tw,PROXY
 HOST-SUFFIX,qiandao.today,PROXY
+HOST-SUFFIX,qianglie.com,PROXY
 HOST-SUFFIX,qiangwaikan.com,PROXY
 HOST-SUFFIX,qiangyou.org,PROXY
 HOST-SUFFIX,qiao-cn.com,PROXY
@@ -22779,8 +22784,6 @@ HOST-SUFFIX,rarbgunblock.com,PROXY
 HOST-SUFFIX,rarbgunblock.org,PROXY
 HOST-SUFFIX,rarbgunblocked.org,PROXY
 HOST-SUFFIX,rarbgway.org,PROXY
-HOST-SUFFIX,raremovie.cc,PROXY
-HOST-SUFFIX,raremovie.net,PROXY
 HOST-SUFFIX,rareview.ac.uk,PROXY
 HOST-SUFFIX,ras.ac.uk,PROXY
 HOST-SUFFIX,rascal.ac.uk,PROXY
@@ -22804,7 +22807,6 @@ HOST-SUFFIX,razer.com,PROXY
 HOST-SUFFIX,razerofficial.com,PROXY
 HOST-SUFFIX,razersupport.com,PROXY
 HOST-SUFFIX,razerzone.jp,PROXY
-HOST-SUFFIX,razyboard.com,PROXY
 HOST-SUFFIX,rb-crisis.com,PROXY
 HOST-SUFFIX,rb.com,PROXY
 HOST-SUFFIX,rb.gy,PROXY
@@ -23252,6 +23254,7 @@ HOST-SUFFIX,robotoffice.com,PROXY
 HOST-SUFFIX,robustnessiskey.com,PROXY
 HOST-SUFFIX,rochdalesfc.ac.uk,PROXY
 HOST-SUFFIX,rocket-inc.net,PROXY
+HOST-SUFFIX,rocket.chat,PROXY
 HOST-SUFFIX,rocketfishproducts.com,PROXY
 HOST-SUFFIX,rockettube.com,PROXY
 HOST-SUFFIX,rocksdb.com,PROXY
@@ -26649,6 +26652,7 @@ HOST-SUFFIX,timtales.com,PROXY
 HOST-SUFFIX,tinc-vpn.org,PROXY
 HOST-SUFFIX,tineye.com,PROXY
 HOST-SUFFIX,ting53.xyz,PROXY
+HOST-SUFFIX,tingtalk.me,PROXY
 HOST-SUFFIX,tinhduc.org,PROXY
 HOST-SUFFIX,tinkerboxapp.com,PROXY
 HOST-SUFFIX,tinkercad.com,PROXY
@@ -27764,6 +27768,7 @@ HOST-SUFFIX,uug23.com,PROXY
 HOST-SUFFIX,uug25.com,PROXY
 HOST-SUFFIX,uug26.com,PROXY
 HOST-SUFFIX,uug27.com,PROXY
+HOST-SUFFIX,uujiasu.com,PROXY
 HOST-SUFFIX,uuk.ac.uk,PROXY
 HOST-SUFFIX,uuk28.com,PROXY
 HOST-SUFFIX,uukanshu.com,PROXY
@@ -28704,6 +28709,7 @@ HOST-SUFFIX,voyeurstyle.com,PROXY
 HOST-SUFFIX,voyeurweb.com,PROXY
 HOST-SUFFIX,vpl.bibliocommons.com,PROXY
 HOST-SUFFIX,vpn.ac,PROXY
+HOST-SUFFIX,vpn.net,PROXY
 HOST-SUFFIX,vpn4all.com,PROXY
 HOST-SUFFIX,vpnaccount.org,PROXY
 HOST-SUFFIX,vpnaccounts.com,PROXY
@@ -28808,7 +28814,6 @@ HOST-SUFFIX,waikeung.org,PROXY
 HOST-SUFFIX,wailaike.net,PROXY
 HOST-SUFFIX,wainao.me,PROXY
 HOST-SUFFIX,waisongcha.com,PROXY
-HOST-SUFFIX,waittingfor001.weebly.com,PROXY
 HOST-SUFFIX,waiwaier.com,PROXY
 HOST-SUFFIX,wakcoll.ac.uk,PROXY
 HOST-SUFFIX,wakefield.ac.uk,PROXY
@@ -29010,6 +29015,7 @@ HOST-SUFFIX,webtype.com,PROXY
 HOST-SUFFIX,webwarper.net,PROXY
 HOST-SUFFIX,webworkerdaily.com,PROXY
 HOST-SUFFIX,wechatlawsuit.com,PROXY
+HOST-SUFFIX,weebly.com,PROXY
 HOST-SUFFIX,weekly-economist.com,PROXY
 HOST-SUFFIX,weeklytimesnow.com.au,PROXY
 HOST-SUFFIX,weekmag.info,PROXY
@@ -29229,7 +29235,6 @@ HOST-SUFFIX,wikawika.xyz,PROXY
 HOST-SUFFIX,wiki.cnitter.com,PROXY
 HOST-SUFFIX,wiki.gamerp.jp,PROXY
 HOST-SUFFIX,wiki.keso.cn,PROXY
-HOST-SUFFIX,wiki.moegirl.org,PROXY
 HOST-SUFFIX,wiki.oauth.net,PROXY
 HOST-SUFFIX,wiki.phonegap.com,PROXY
 HOST-SUFFIX,wikia.com,PROXY
@@ -29732,6 +29737,7 @@ HOST-SUFFIX,xfm.pp.ru,PROXY
 HOST-SUFFIX,xfockers.com,PROXY
 HOST-SUFFIX,xfreehd.com,PROXY
 HOST-SUFFIX,xfuckonline.com,PROXY
+HOST-SUFFIX,xfxssr.me,PROXY
 HOST-SUFFIX,xgames.zone,PROXY
 HOST-SUFFIX,xgaytube.com,PROXY
 HOST-SUFFIX,xgaytube.tv,PROXY
@@ -29879,6 +29885,7 @@ HOST-SUFFIX,xn--kput3imi374g.xn--hxt814e,PROXY
 HOST-SUFFIX,xn--mts47c3w9b1qr.net,PROXY
 HOST-SUFFIX,xn--mtswd61ejxq.com,PROXY
 HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
+HOST-SUFFIX,xn--noss43i.com,PROXY
 HOST-SUFFIX,xn--oiq.cc,PROXY
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,PROXY
 HOST-SUFFIX,xn--pearsonenespaol-brb.com,PROXY

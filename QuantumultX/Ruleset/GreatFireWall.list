@@ -1,5 +1,5 @@
 # 规则名称: GreatFireWall
-# 规则统计: 6251
+# 规则统计: 6259
 
 HOST-SUFFIX,000webhost.com,GreatFireWall
 HOST-SUFFIX,030buy.com,GreatFireWall
@@ -319,7 +319,6 @@ HOST-SUFFIX,apetube.com,GreatFireWall
 HOST-SUFFIX,api-secure.recaptcha.net,GreatFireWall
 HOST-SUFFIX,api-verify.recaptcha.net,GreatFireWall
 HOST-SUFFIX,api.ai,GreatFireWall
-HOST-SUFFIX,api.dropboxapi.com,GreatFireWall
 HOST-SUFFIX,api.linksalpha.com,GreatFireWall
 HOST-SUFFIX,api.pureapk.com,GreatFireWall
 HOST-SUFFIX,api.recaptcha.net,GreatFireWall
@@ -720,6 +719,7 @@ HOST-SUFFIX,bloombergview.com,GreatFireWall
 HOST-SUFFIX,bloomfortune.com,GreatFireWall
 HOST-SUFFIX,blubrry.com,GreatFireWall
 HOST-SUFFIX,blueangellive.com,GreatFireWall
+HOST-SUFFIX,bmdru.com,GreatFireWall
 HOST-SUFFIX,bmfinn.com,GreatFireWall
 HOST-SUFFIX,bnbstatic.com,GreatFireWall
 HOST-SUFFIX,bnews.co,GreatFireWall
@@ -1468,6 +1468,7 @@ HOST-SUFFIX,drgan.net,GreatFireWall
 HOST-SUFFIX,drmingxia.org,GreatFireWall
 HOST-SUFFIX,dropbooks.tv,GreatFireWall
 HOST-SUFFIX,dropbox.com,GreatFireWall
+HOST-SUFFIX,dropboxapi.com,GreatFireWall
 HOST-SUFFIX,dropboxusercontent.com,GreatFireWall
 HOST-SUFFIX,drsunacademy.com,GreatFireWall
 HOST-SUFFIX,drtuber.com,GreatFireWall
@@ -1944,7 +1945,7 @@ HOST-SUFFIX,freewww.info,GreatFireWall
 HOST-SUFFIX,freexinwen.com,GreatFireWall
 HOST-SUFFIX,freeyellow.com,GreatFireWall
 HOST-SUFFIX,freeyoutubeproxy.net,GreatFireWall
-HOST-SUFFIX,friendfeed-media.com,GreatFireWall
+HOST-SUFFIX,freezhihu.org,GreatFireWall
 HOST-SUFFIX,friendfeed.com,GreatFireWall
 HOST-SUFFIX,friends-of-tibet.org,GreatFireWall
 HOST-SUFFIX,friendsoftibet.org,GreatFireWall
@@ -3106,6 +3107,7 @@ HOST-SUFFIX,khmusic.com.tw,GreatFireWall
 HOST-SUFFIX,kichiku-doujinko.com,GreatFireWall
 HOST-SUFFIX,kik.com,GreatFireWall
 HOST-SUFFIX,killwall.com,GreatFireWall
+HOST-SUFFIX,kindle4rss.com,GreatFireWall
 HOST-SUFFIX,kindleren.com,GreatFireWall
 HOST-SUFFIX,kineox.free.fr,GreatFireWall
 HOST-SUFFIX,kingdomsalvation.org,GreatFireWall
@@ -3516,6 +3518,7 @@ HOST-SUFFIX,mod.io,GreatFireWall
 HOST-SUFFIX,modernchinastudies.org,GreatFireWall
 HOST-SUFFIX,moeaic.gov.tw,GreatFireWall
 HOST-SUFFIX,moeerolibrary.com,GreatFireWall
+HOST-SUFFIX,moeshare.cc,GreatFireWall
 HOST-SUFFIX,mofa.gov.tw,GreatFireWall
 HOST-SUFFIX,mofaxiehui.com,GreatFireWall
 HOST-SUFFIX,mofos.com,GreatFireWall
@@ -3728,12 +3731,12 @@ HOST-SUFFIX,news.yahoo.com,GreatFireWall
 HOST-SUFFIX,news.ycombinator.com,GreatFireWall
 HOST-SUFFIX,news100.com.tw,GreatFireWall
 HOST-SUFFIX,newsancai.com,GreatFireWall
+HOST-SUFFIX,newsblur.com,GreatFireWall
 HOST-SUFFIX,newschinacomment.org,GreatFireWall
 HOST-SUFFIX,newscn.org,GreatFireWall
 HOST-SUFFIX,newsdetox.ca,GreatFireWall
 HOST-SUFFIX,newsdh.com,GreatFireWall
 HOST-SUFFIX,newsmax.com,GreatFireWall
-HOST-SUFFIX,newspeak.cc,GreatFireWall
 HOST-SUFFIX,newstamago.com,GreatFireWall
 HOST-SUFFIX,newstapa.org,GreatFireWall
 HOST-SUFFIX,newstarnet.com,GreatFireWall
@@ -3800,7 +3803,6 @@ HOST-SUFFIX,nordstromrack.com,GreatFireWall
 HOST-SUFFIX,nordvpn.com,GreatFireWall
 HOST-SUFFIX,nos.nl,GreatFireWall
 HOST-SUFFIX,notepad-plus-plus.org,GreatFireWall
-HOST-SUFFIX,notify.dropboxapi.com,GreatFireWall
 HOST-SUFFIX,nottinghampost.com,GreatFireWall
 HOST-SUFFIX,novelasia.com,GreatFireWall
 HOST-SUFFIX,now.com,GreatFireWall
@@ -4124,9 +4126,11 @@ HOST-SUFFIX,piring.com,GreatFireWall
 HOST-SUFFIX,pixeldrain.com,GreatFireWall
 HOST-SUFFIX,pixelqi.com,GreatFireWall
 HOST-SUFFIX,pixiv.net,GreatFireWall
+HOST-SUFFIX,pixivsketch.net,GreatFireWall
 HOST-SUFFIX,pixnet.net,GreatFireWall
 HOST-SUFFIX,pk.com,GreatFireWall
 HOST-SUFFIX,pki.goog,GreatFireWall
+HOST-SUFFIX,pkqjiasu.com,GreatFireWall
 HOST-SUFFIX,placemix.com,GreatFireWall
 HOST-SUFFIX,play-asia.com,GreatFireWall
 HOST-SUFFIX,playboy.com,GreatFireWall
@@ -4285,6 +4289,7 @@ HOST-SUFFIX,qhigh.com,GreatFireWall
 HOST-SUFFIX,qi-gong.me,GreatFireWall
 HOST-SUFFIX,qianbai.tw,GreatFireWall
 HOST-SUFFIX,qiandao.today,GreatFireWall
+HOST-SUFFIX,qianglie.com,GreatFireWall
 HOST-SUFFIX,qiangwaikan.com,GreatFireWall
 HOST-SUFFIX,qiangyou.org,GreatFireWall
 HOST-SUFFIX,qidian.ca,GreatFireWall
@@ -4340,19 +4345,17 @@ HOST-SUFFIX,rapbull.net,GreatFireWall
 HOST-SUFFIX,rapidmoviez.com,GreatFireWall
 HOST-SUFFIX,rapidvpn.com,GreatFireWall
 HOST-SUFFIX,rarbgprx.org,GreatFireWall
-HOST-SUFFIX,raremovie.cc,GreatFireWall
-HOST-SUFFIX,raremovie.net,GreatFireWall
 HOST-SUFFIX,rateyourmusic.com,GreatFireWall
 HOST-SUFFIX,rationalwiki.org,GreatFireWall
 HOST-SUFFIX,raw.githack.com,GreatFireWall
 HOST-SUFFIX,rawgit.com,GreatFireWall
 HOST-SUFFIX,rawgithub.com,GreatFireWall
-HOST-SUFFIX,razyboard.com,GreatFireWall
 HOST-SUFFIX,rcam.target.com,GreatFireWall
 HOST-SUFFIX,rcinet.ca,GreatFireWall
 HOST-SUFFIX,rconversation.blogs.com,GreatFireWall
 HOST-SUFFIX,rd.com,GreatFireWall
 HOST-SUFFIX,rdio.com,GreatFireWall
+HOST-SUFFIX,reabble.com,GreatFireWall
 HOST-SUFFIX,read01.com,GreatFireWall
 HOST-SUFFIX,read100.com,GreatFireWall
 HOST-SUFFIX,readingtimes.com.tw,GreatFireWall
@@ -4426,6 +4429,7 @@ HOST-SUFFIX,roadshow.hk,GreatFireWall
 HOST-SUFFIX,roboforex.com,GreatFireWall
 HOST-SUFFIX,robustnessiskey.com,GreatFireWall
 HOST-SUFFIX,rocket-inc.net,GreatFireWall
+HOST-SUFFIX,rocket.chat,GreatFireWall
 HOST-SUFFIX,rocksdb.org,GreatFireWall
 HOST-SUFFIX,rojo.com,GreatFireWall
 HOST-SUFFIX,rolfoundation.org,GreatFireWall
@@ -5202,6 +5206,7 @@ HOST-SUFFIX,timsah.com,GreatFireWall
 HOST-SUFFIX,timtales.com,GreatFireWall
 HOST-SUFFIX,tinc-vpn.org,GreatFireWall
 HOST-SUFFIX,tineye.com,GreatFireWall
+HOST-SUFFIX,tingtalk.me,GreatFireWall
 HOST-SUFFIX,tintuc101.com,GreatFireWall
 HOST-SUFFIX,tiny.cc,GreatFireWall
 HOST-SUFFIX,tinychat.com,GreatFireWall
@@ -5555,6 +5560,7 @@ HOST-SUFFIX,ustream.tv,GreatFireWall
 HOST-SUFFIX,usus.cc,GreatFireWall
 HOST-SUFFIX,utopianpal.com,GreatFireWall
 HOST-SUFFIX,uu-gg.com,GreatFireWall
+HOST-SUFFIX,uujiasu.com,GreatFireWall
 HOST-SUFFIX,uukanshu.com,GreatFireWall
 HOST-SUFFIX,uvwxyz.xyz,GreatFireWall
 HOST-SUFFIX,uwants.com,GreatFireWall
@@ -5673,6 +5679,7 @@ HOST-SUFFIX,voy.com,GreatFireWall
 HOST-SUFFIX,vpl.bibliocommons.com,GreatFireWall
 HOST-SUFFIX,vpn.ac,GreatFireWall
 HOST-SUFFIX,vpn.cmu.edu,GreatFireWall
+HOST-SUFFIX,vpn.net,GreatFireWall
 HOST-SUFFIX,vpn.sv.cmu.edu,GreatFireWall
 HOST-SUFFIX,vpn4all.com,GreatFireWall
 HOST-SUFFIX,vpnaccount.org,GreatFireWall
@@ -5783,6 +5790,7 @@ HOST-SUFFIX,websitepulse.com,GreatFireWall
 HOST-SUFFIX,webwarper.net,GreatFireWall
 HOST-SUFFIX,webworkerdaily.com,GreatFireWall
 HOST-SUFFIX,wechatlawsuit.com,GreatFireWall
+HOST-SUFFIX,weebly.com,GreatFireWall
 HOST-SUFFIX,weekmag.info,GreatFireWall
 HOST-SUFFIX,wefightcensorship.org,GreatFireWall
 HOST-SUFFIX,wefong.com,GreatFireWall
@@ -5838,7 +5846,6 @@ HOST-SUFFIX,wiki.cnitter.com,GreatFireWall
 HOST-SUFFIX,wiki.gamerp.jp,GreatFireWall
 HOST-SUFFIX,wiki.jqueryui.com,GreatFireWall
 HOST-SUFFIX,wiki.keso.cn,GreatFireWall
-HOST-SUFFIX,wiki.moegirl.org,GreatFireWall
 HOST-SUFFIX,wiki.oauth.net,GreatFireWall
 HOST-SUFFIX,wiki.phonegap.com,GreatFireWall
 HOST-SUFFIX,wikileaks-forum.com,GreatFireWall
@@ -5994,10 +6001,10 @@ HOST-SUFFIX,xbtce.com,GreatFireWall
 HOST-SUFFIX,xcafe.in,GreatFireWall
 HOST-SUFFIX,xcity.jp,GreatFireWall
 HOST-SUFFIX,xcritic.com,GreatFireWall
-HOST-SUFFIX,xda-developers.com,GreatFireWall
 HOST-SUFFIX,xerotica.com,GreatFireWall
 HOST-SUFFIX,xfinity.com,GreatFireWall
 HOST-SUFFIX,xfm.pp.ru,GreatFireWall
+HOST-SUFFIX,xfxssr.me,GreatFireWall
 HOST-SUFFIX,xgmyd.com,GreatFireWall
 HOST-SUFFIX,xhamster.com,GreatFireWall
 HOST-SUFFIX,xianba.net,GreatFireWall
@@ -6040,6 +6047,7 @@ HOST-SUFFIX,xn--9pr62r24a.com,GreatFireWall
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,GreatFireWall
 HOST-SUFFIX,xn--i2ru8q2qg.com,GreatFireWall
 HOST-SUFFIX,xn--ngstr-lra8j.com,GreatFireWall
+HOST-SUFFIX,xn--noss43i.com,GreatFireWall
 HOST-SUFFIX,xn--oiq.cc,GreatFireWall
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,GreatFireWall
 HOST-SUFFIX,xnxx.com,GreatFireWall
