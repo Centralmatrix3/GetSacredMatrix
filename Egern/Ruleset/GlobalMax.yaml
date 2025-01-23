@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31041
+# 规则统计: 31052
 
 no_resolve: true
 domain_set:
@@ -4232,6 +4232,7 @@ domain_suffix_set:
   - bm14.ac.uk
   - bmac.ac.uk
   - bmc.ac.uk
+  - bmdru.com
   - bme.ac.uk
   - bmet.ac.uk
   - bmetc.ac.uk
@@ -18148,6 +18149,7 @@ domain_suffix_set:
   - moegirl.org
   - moeimg.net
   - moemax.net
+  - moeshare.cc
   - moez-m.com
   - mof.kemomi.me
   - mofa.gov.tw
@@ -21380,6 +21382,7 @@ domain_suffix_set:
   - pixiv.me
   - pixiv.net
   - pixiv.org
+  - pixivsketch.net
   - pixlr-o-matic.com
   - pixlromatic.com
   - pixnet.cc
@@ -21397,6 +21400,7 @@ domain_suffix_set:
   - pki-posta.ch
   - pki-poste.ch
   - pki.goog
+  - pkqjiasu.com
   - placemix.com
   - placemyad.com.au
   - placesdocs.com
@@ -22334,6 +22338,7 @@ domain_suffix_set:
   - qi-gong.me
   - qianbai.tw
   - qiandao.today
+  - qianglie.com
   - qiangwaikan.com
   - qiangyou.org
   - qiao-cn.com
@@ -23047,6 +23052,7 @@ domain_suffix_set:
   - robustnessiskey.com
   - rochdalesfc.ac.uk
   - rocket-inc.net
+  - rocket.chat
   - rocketbbs.com
   - rocketfishproducts.com
   - rockettube.com
@@ -26474,6 +26480,7 @@ domain_suffix_set:
   - tiney.com
   - tineye.com
   - ting53.xyz
+  - tingtalk.me
   - tinhduc.org
   - tinkerboxapp.com
   - tinkercad.com
@@ -27618,6 +27625,7 @@ domain_suffix_set:
   - uug25.com
   - uug26.com
   - uug27.com
+  - uujiasu.com
   - uuk.ac.uk
   - uuk28.com
   - uukanshu.com
@@ -28556,6 +28564,7 @@ domain_suffix_set:
   - vpejey.xyz
   - vpl.bibliocommons.com
   - vpn.ac
+  - vpn.net
   - vpn4all.com
   - vpnaccount.org
   - vpnaccounts.com
@@ -28665,7 +28674,6 @@ domain_suffix_set:
   - wailaike.net
   - wainao.me
   - waisongcha.com
-  - waittingfor001.weebly.com
   - waiwaier.com
   - wakcoll.ac.uk
   - wakefield.ac.uk
@@ -28868,6 +28876,7 @@ domain_suffix_set:
   - webwarper.net
   - webworkerdaily.com
   - wechatlawsuit.com
+  - weebly.com
   - weekly-economist.com
   - weeklytimesnow.com.au
   - weekmag.info
@@ -29551,6 +29560,7 @@ domain_suffix_set:
   - xfockers.com
   - xfreehd.com
   - xfuckonline.com
+  - xfxssr.me
   - xgames.zone
   - xgaytube.com
   - xgaytube.tv
@@ -29697,6 +29707,7 @@ domain_suffix_set:
   - xn--mts47c3w9b1qr.net
   - xn--mtswd61ejxq.com
   - xn--ngstr-lra8j.com
+  - xn--noss43i.com
   - xn--oiq.cc
   - xn--p8j9a0d9c9a.xn--q9jyb4c
   - xn--pearsonenespaol-brb.com

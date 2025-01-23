@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31041
+# 规则统计: 31052
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -4229,6 +4229,7 @@ HOST-SUFFIX,blz-contentstack.com,GlobalMax
 HOST-SUFFIX,bm14.ac.uk,GlobalMax
 HOST-SUFFIX,bmac.ac.uk,GlobalMax
 HOST-SUFFIX,bmc.ac.uk,GlobalMax
+HOST-SUFFIX,bmdru.com,GlobalMax
 HOST-SUFFIX,bme.ac.uk,GlobalMax
 HOST-SUFFIX,bmet.ac.uk,GlobalMax
 HOST-SUFFIX,bmetc.ac.uk,GlobalMax
@@ -18145,6 +18146,7 @@ HOST-SUFFIX,moefuns.co,GlobalMax
 HOST-SUFFIX,moegirl.org,GlobalMax
 HOST-SUFFIX,moeimg.net,GlobalMax
 HOST-SUFFIX,moemax.net,GlobalMax
+HOST-SUFFIX,moeshare.cc,GlobalMax
 HOST-SUFFIX,moez-m.com,GlobalMax
 HOST-SUFFIX,mof.kemomi.me,GlobalMax
 HOST-SUFFIX,mofa.gov.tw,GlobalMax
@@ -21377,6 +21379,7 @@ HOST-SUFFIX,pixiv.co.jp,GlobalMax
 HOST-SUFFIX,pixiv.me,GlobalMax
 HOST-SUFFIX,pixiv.net,GlobalMax
 HOST-SUFFIX,pixiv.org,GlobalMax
+HOST-SUFFIX,pixivsketch.net,GlobalMax
 HOST-SUFFIX,pixlr-o-matic.com,GlobalMax
 HOST-SUFFIX,pixlromatic.com,GlobalMax
 HOST-SUFFIX,pixnet.cc,GlobalMax
@@ -21394,6 +21397,7 @@ HOST-SUFFIX,pki-post.ch,GlobalMax
 HOST-SUFFIX,pki-posta.ch,GlobalMax
 HOST-SUFFIX,pki-poste.ch,GlobalMax
 HOST-SUFFIX,pki.goog,GlobalMax
+HOST-SUFFIX,pkqjiasu.com,GlobalMax
 HOST-SUFFIX,placemix.com,GlobalMax
 HOST-SUFFIX,placemyad.com.au,GlobalMax
 HOST-SUFFIX,placesdocs.com,GlobalMax
@@ -22331,6 +22335,7 @@ HOST-SUFFIX,qhigh.com,GlobalMax
 HOST-SUFFIX,qi-gong.me,GlobalMax
 HOST-SUFFIX,qianbai.tw,GlobalMax
 HOST-SUFFIX,qiandao.today,GlobalMax
+HOST-SUFFIX,qianglie.com,GlobalMax
 HOST-SUFFIX,qiangwaikan.com,GlobalMax
 HOST-SUFFIX,qiangyou.org,GlobalMax
 HOST-SUFFIX,qiao-cn.com,GlobalMax
@@ -23044,6 +23049,7 @@ HOST-SUFFIX,robotoffice.com,GlobalMax
 HOST-SUFFIX,robustnessiskey.com,GlobalMax
 HOST-SUFFIX,rochdalesfc.ac.uk,GlobalMax
 HOST-SUFFIX,rocket-inc.net,GlobalMax
+HOST-SUFFIX,rocket.chat,GlobalMax
 HOST-SUFFIX,rocketbbs.com,GlobalMax
 HOST-SUFFIX,rocketfishproducts.com,GlobalMax
 HOST-SUFFIX,rockettube.com,GlobalMax
@@ -26471,6 +26477,7 @@ HOST-SUFFIX,tinder.com,GlobalMax
 HOST-SUFFIX,tiney.com,GlobalMax
 HOST-SUFFIX,tineye.com,GlobalMax
 HOST-SUFFIX,ting53.xyz,GlobalMax
+HOST-SUFFIX,tingtalk.me,GlobalMax
 HOST-SUFFIX,tinhduc.org,GlobalMax
 HOST-SUFFIX,tinkerboxapp.com,GlobalMax
 HOST-SUFFIX,tinkercad.com,GlobalMax
@@ -27615,6 +27622,7 @@ HOST-SUFFIX,uug23.com,GlobalMax
 HOST-SUFFIX,uug25.com,GlobalMax
 HOST-SUFFIX,uug26.com,GlobalMax
 HOST-SUFFIX,uug27.com,GlobalMax
+HOST-SUFFIX,uujiasu.com,GlobalMax
 HOST-SUFFIX,uuk.ac.uk,GlobalMax
 HOST-SUFFIX,uuk28.com,GlobalMax
 HOST-SUFFIX,uukanshu.com,GlobalMax
@@ -28553,6 +28561,7 @@ HOST-SUFFIX,voyeurweb.com,GlobalMax
 HOST-SUFFIX,vpejey.xyz,GlobalMax
 HOST-SUFFIX,vpl.bibliocommons.com,GlobalMax
 HOST-SUFFIX,vpn.ac,GlobalMax
+HOST-SUFFIX,vpn.net,GlobalMax
 HOST-SUFFIX,vpn4all.com,GlobalMax
 HOST-SUFFIX,vpnaccount.org,GlobalMax
 HOST-SUFFIX,vpnaccounts.com,GlobalMax
@@ -28662,7 +28671,6 @@ HOST-SUFFIX,waikeung.org,GlobalMax
 HOST-SUFFIX,wailaike.net,GlobalMax
 HOST-SUFFIX,wainao.me,GlobalMax
 HOST-SUFFIX,waisongcha.com,GlobalMax
-HOST-SUFFIX,waittingfor001.weebly.com,GlobalMax
 HOST-SUFFIX,waiwaier.com,GlobalMax
 HOST-SUFFIX,wakcoll.ac.uk,GlobalMax
 HOST-SUFFIX,wakefield.ac.uk,GlobalMax
@@ -28865,6 +28873,7 @@ HOST-SUFFIX,webtype.com,GlobalMax
 HOST-SUFFIX,webwarper.net,GlobalMax
 HOST-SUFFIX,webworkerdaily.com,GlobalMax
 HOST-SUFFIX,wechatlawsuit.com,GlobalMax
+HOST-SUFFIX,weebly.com,GlobalMax
 HOST-SUFFIX,weekly-economist.com,GlobalMax
 HOST-SUFFIX,weeklytimesnow.com.au,GlobalMax
 HOST-SUFFIX,weekmag.info,GlobalMax
@@ -29548,6 +29557,7 @@ HOST-SUFFIX,xfinity.com,GlobalMax
 HOST-SUFFIX,xfockers.com,GlobalMax
 HOST-SUFFIX,xfreehd.com,GlobalMax
 HOST-SUFFIX,xfuckonline.com,GlobalMax
+HOST-SUFFIX,xfxssr.me,GlobalMax
 HOST-SUFFIX,xgames.zone,GlobalMax
 HOST-SUFFIX,xgaytube.com,GlobalMax
 HOST-SUFFIX,xgaytube.tv,GlobalMax
@@ -29694,6 +29704,7 @@ HOST-SUFFIX,xn--m1abbbgjah.lol,GlobalMax
 HOST-SUFFIX,xn--mts47c3w9b1qr.net,GlobalMax
 HOST-SUFFIX,xn--mtswd61ejxq.com,GlobalMax
 HOST-SUFFIX,xn--ngstr-lra8j.com,GlobalMax
+HOST-SUFFIX,xn--noss43i.com,GlobalMax
 HOST-SUFFIX,xn--oiq.cc,GlobalMax
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,GlobalMax
 HOST-SUFFIX,xn--pearsonenespaol-brb.com,GlobalMax
