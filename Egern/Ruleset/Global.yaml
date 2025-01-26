@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6901
+# 规则统计: 6909
 
 no_resolve: true
 domain_set:
@@ -850,6 +850,7 @@ domain_suffix_set:
   - btctrade.im
   - btdig.com
   - btdigg.org
+  - btguard.com
   - btku.me
   - btku.org
   - btlibrary.me
@@ -1507,6 +1508,7 @@ domain_suffix_set:
   - dlsite.jp
   - dlyoutube.com
   - dm530.net
+  - dma.mil
   - dmc.nico
   - dmcdn.net
   - dmhy.org
@@ -2571,7 +2573,7 @@ domain_suffix_set:
   - googlepagecreator.com
   - googleplay.com
   - googleplus.com
-  - googlescholar.comUSA
+  - googlescholar.com
   - googlesile.com
   - googlesource.com
   - googleusercontent.com
@@ -3186,7 +3188,6 @@ domain_suffix_set:
   - izles.net
   - izlesem.org
   - j.mp
-  - ja.wikipedia.org
   - jable.tv
   - jackjia.com
   - jamaat.org
@@ -4436,7 +4437,6 @@ domain_suffix_set:
   - philborges.com
   - phmsociety.org
   - phncdn.com
-  - phobos.apple.com
   - phonegap.com
   - phosphation13.rssing.com
   - photodharma.net
@@ -5941,6 +5941,7 @@ domain_suffix_set:
   - typora.io
   - u15.info
   - u9un.com
+  - ua5v.com
   - ub0.cc
   - ubddns.org
   - uberproxy.net
@@ -5968,6 +5969,8 @@ domain_suffix_set:
   - uku.im
   - ulike.net
   - ulop.net
+  - ultrasurf.us
+  - ultravpn.com
   - ultravpn.fr
   - ultraxs.com
   - umich.edu
@@ -6025,6 +6028,7 @@ domain_suffix_set:
   - usacn.com
   - usaip.eu
   - uscardforum.com
+  - uscg.mil
   - uscnpm.org
   - usembassy.gov
   - userapi.nytlog.com
@@ -6197,6 +6201,7 @@ domain_suffix_set:
   - vpnpick.com
   - vpnpop.com
   - vpnpronet.com
+  - vpnproxymaster.com
   - vpnreactor.com
   - vpnreviewz.com
   - vpnsecure.me
@@ -6399,6 +6404,7 @@ domain_suffix_set:
   - wlcnew.jigsy.com
   - wlx.sowiki.net
   - wmflabs.org
+  - wmfusercontent.org
   - wn.com
   - wnacg.com
   - wnacg.org
@@ -6622,6 +6628,7 @@ domain_suffix_set:
   - yanghengjun.com
   - yangjianli.com
   - yasni.co.uk
+  - yasukuni.or.jp
   - yayabay.com
   - ycombinator.com
   - ydy.com
@@ -6697,6 +6704,7 @@ domain_suffix_set:
   - yuanzhengtang.org
   - yulghun.com
   - yunchao.net
+  - yunomi.tokyo
   - yuvutu.com
   - yvesgeleyn.com
   - ywpw.com

@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 31050
+# 规则统计: 31059
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -5493,6 +5493,7 @@ HOST-SUFFIX,btctrade.im,PROXY
 HOST-SUFFIX,btdig.com,PROXY
 HOST-SUFFIX,btdigg.org,PROXY
 HOST-SUFFIX,btec.co.uk,PROXY
+HOST-SUFFIX,btguard.com,PROXY
 HOST-SUFFIX,btku.me,PROXY
 HOST-SUFFIX,btku.org,PROXY
 HOST-SUFFIX,bton.ac.uk,PROXY
@@ -8390,6 +8391,7 @@ HOST-SUFFIX,dlsitestudio.com,PROXY
 HOST-SUFFIX,dlyoutube.com,PROXY
 HOST-SUFFIX,dm-event.net,PROXY
 HOST-SUFFIX,dm530.net,PROXY
+HOST-SUFFIX,dma.mil,PROXY
 HOST-SUFFIX,dmcdn.net,PROXY
 HOST-SUFFIX,dmed.technology,PROXY
 HOST-SUFFIX,dmgmediaprivacy.co.uk,PROXY
@@ -12371,7 +12373,7 @@ HOST-SUFFIX,googlephotos.com,PROXY
 HOST-SUFFIX,googleplay.com,PROXY
 HOST-SUFFIX,googleplex.com,PROXY
 HOST-SUFFIX,googleplus.com,PROXY
-HOST-SUFFIX,googlescholar.comUSA,PROXY
+HOST-SUFFIX,googlescholar.com,PROXY
 HOST-SUFFIX,googlesile.com,PROXY
 HOST-SUFFIX,googlesource.com,PROXY
 HOST-SUFFIX,googlestore.com,PROXY
@@ -27367,6 +27369,7 @@ HOST-SUFFIX,u4heusergroup.ac.uk,PROXY
 HOST-SUFFIX,u9a9.cc,PROXY
 HOST-SUFFIX,u9a9.com,PROXY
 HOST-SUFFIX,u9un.com,PROXY
+HOST-SUFFIX,ua5v.com,PROXY
 HOST-SUFFIX,ua92.ac.uk,PROXY
 HOST-SUFFIX,uaa.com,PROXY
 HOST-SUFFIX,uab.com.mm,PROXY
@@ -27582,6 +27585,8 @@ HOST-SUFFIX,ultimaforever.com,PROXY
 HOST-SUFFIX,ultimaonline.com,PROXY
 HOST-SUFFIX,ultradonkey.com,PROXY
 HOST-SUFFIX,ultralab.ac.uk,PROXY
+HOST-SUFFIX,ultrasurf.us,PROXY
+HOST-SUFFIX,ultravpn.com,PROXY
 HOST-SUFFIX,ultravpn.fr,PROXY
 HOST-SUFFIX,ultraxs.com,PROXY
 HOST-SUFFIX,umagazine.com.hk,PROXY
@@ -27757,6 +27762,7 @@ HOST-SUFFIX,usaip.eu,PROXY
 HOST-SUFFIX,usatoday.com,PROXY
 HOST-SUFFIX,usatodaynetworkservice.com,PROXY
 HOST-SUFFIX,uscardforum.com,PROXY
+HOST-SUFFIX,uscg.mil,PROXY
 HOST-SUFFIX,uscnpm.org,PROXY
 HOST-SUFFIX,use-of-mans.ac.uk,PROXY
 HOST-SUFFIX,uselessjunk.com,PROXY
@@ -28763,6 +28769,7 @@ HOST-SUFFIX,vpnmentor.com,PROXY
 HOST-SUFFIX,vpnpick.com,PROXY
 HOST-SUFFIX,vpnpop.com,PROXY
 HOST-SUFFIX,vpnpronet.com,PROXY
+HOST-SUFFIX,vpnproxymaster.com,PROXY
 HOST-SUFFIX,vpnreactor.com,PROXY
 HOST-SUFFIX,vpnreviewz.com,PROXY
 HOST-SUFFIX,vpnsecure.me,PROXY
@@ -30439,6 +30446,7 @@ HOST-SUFFIX,yarnpkg.com,PROXY
 HOST-SUFFIX,yasarang.net,PROXY
 HOST-SUFFIX,yasni.co.uk,PROXY
 HOST-SUFFIX,yastatic.net,PROXY
+HOST-SUFFIX,yasukuni.or.jp,PROXY
 HOST-SUFFIX,yavtube.com,PROXY
 HOST-SUFFIX,yaya.cyou,PROXY
 HOST-SUFFIX,yayabay.com,PROXY
@@ -30813,6 +30821,7 @@ HOST-SUFFIX,yunchao.net,PROXY
 HOST-SUFFIX,yunlaopo.cc,PROXY
 HOST-SUFFIX,yunlaopo.com,PROXY
 HOST-SUFFIX,yunlaopo.net,PROXY
+HOST-SUFFIX,yunomi.tokyo,PROXY
 HOST-SUFFIX,yusercontent.com,PROXY
 HOST-SUFFIX,yusjb.com,PROXY
 HOST-SUFFIX,yuvutu.com,PROXY

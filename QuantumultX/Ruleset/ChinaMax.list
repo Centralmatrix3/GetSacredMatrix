@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117619
+# 规则统计: 117622
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -80805,6 +80805,7 @@ HOST-SUFFIX,volcengineapi.com,ChinaMax
 HOST-SUFFIX,volcenginedns.com,ChinaMax
 HOST-SUFFIX,volcenginedns.net,ChinaMax
 HOST-SUFFIX,volcenginepaas.com,ChinaMax
+HOST-SUFFIX,volces.com,ChinaMax
 HOST-SUFFIX,volcfake.com,ChinaMax
 HOST-SUFFIX,volcfcdn.com,ChinaMax
 HOST-SUFFIX,volcfcdnbyte.com,ChinaMax
@@ -100841,6 +100842,7 @@ IP-CIDR,15.230.41.0/24,ChinaMax
 IP-CIDR,15.230.49.0/24,ChinaMax
 IP-CIDR,15.230.73.192/26,ChinaMax
 IP-CIDR,15.230.74.0/25,ChinaMax
+IP-CIDR,15.32.104.0/23,ChinaMax
 IP-CIDR,150.0.0.0/16,ChinaMax
 IP-CIDR,150.115.0.0/16,ChinaMax
 IP-CIDR,150.121.0.0/16,ChinaMax
@@ -100995,7 +100997,7 @@ IP-CIDR,156.227.40.0/21,ChinaMax
 IP-CIDR,156.227.48.0/20,ChinaMax
 IP-CIDR,156.230.11.0/24,ChinaMax
 IP-CIDR,156.230.12.0/23,ChinaMax
-IP-CIDR,156.232.10.0/24,ChinaMax
+IP-CIDR,156.232.10.0/23,ChinaMax
 IP-CIDR,156.232.9.0/24,ChinaMax
 IP-CIDR,156.236.110.0/24,ChinaMax
 IP-CIDR,156.236.116.0/24,ChinaMax
@@ -114199,8 +114201,8 @@ IP6-CIDR,2404:2280:158::/45,ChinaMax
 IP6-CIDR,2404:2280:160::/48,ChinaMax
 IP6-CIDR,2404:2280:170::/48,ChinaMax
 IP6-CIDR,2404:2280:177::/48,ChinaMax
-IP6-CIDR,2404:2280:17f::/48,ChinaMax
-IP6-CIDR,2404:2280:181::/48,ChinaMax
+IP6-CIDR,2404:2280:17e::/47,ChinaMax
+IP6-CIDR,2404:2280:180::/47,ChinaMax
 IP6-CIDR,2404:2280:183::/48,ChinaMax
 IP6-CIDR,2404:2280:187::/48,ChinaMax
 IP6-CIDR,2404:2280:18a::/47,ChinaMax
@@ -116093,6 +116095,7 @@ IP6-CIDR,2a06:9f81:6100::/40,ChinaMax
 IP6-CIDR,2a06:9f81:640b::/48,ChinaMax
 IP6-CIDR,2a06:9f81:6455::/48,ChinaMax
 IP6-CIDR,2a06:9f81:6488::/48,ChinaMax
+IP6-CIDR,2a06:9f81:649f::/48,ChinaMax
 IP6-CIDR,2a06:9f81:64a1::/48,ChinaMax
 IP6-CIDR,2a06:a005:1c40::/44,ChinaMax
 IP6-CIDR,2a06:a005:260::/43,ChinaMax

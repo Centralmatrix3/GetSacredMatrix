@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6901
+# 规则统计: 6909
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -847,6 +847,7 @@ DOMAIN-SUFFIX,btcbank.bank
 DOMAIN-SUFFIX,btctrade.im
 DOMAIN-SUFFIX,btdig.com
 DOMAIN-SUFFIX,btdigg.org
+DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,btku.me
 DOMAIN-SUFFIX,btku.org
 DOMAIN-SUFFIX,btlibrary.me
@@ -1504,6 +1505,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.jp
 DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dm530.net
+DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
@@ -2568,7 +2570,7 @@ DOMAIN-SUFFIX,googlemashups.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googleplus.com
-DOMAIN-SUFFIX,googlescholar.comUSA
+DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -3183,7 +3185,6 @@ DOMAIN-SUFFIX,izihost.org
 DOMAIN-SUFFIX,izles.net
 DOMAIN-SUFFIX,izlesem.org
 DOMAIN-SUFFIX,j.mp
-DOMAIN-SUFFIX,ja.wikipedia.org
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,jackjia.com
 DOMAIN-SUFFIX,jamaat.org
@@ -4433,7 +4434,6 @@ DOMAIN-SUFFIX,phayul.com
 DOMAIN-SUFFIX,philborges.com
 DOMAIN-SUFFIX,phmsociety.org
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,phonegap.com
 DOMAIN-SUFFIX,phosphation13.rssing.com
 DOMAIN-SUFFIX,photodharma.net
@@ -5938,6 +5938,7 @@ DOMAIN-SUFFIX,typepad.com
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,u15.info
 DOMAIN-SUFFIX,u9un.com
+DOMAIN-SUFFIX,ua5v.com
 DOMAIN-SUFFIX,ub0.cc
 DOMAIN-SUFFIX,ubddns.org
 DOMAIN-SUFFIX,uberproxy.net
@@ -5965,6 +5966,8 @@ DOMAIN-SUFFIX,ukliferadio.co.uk
 DOMAIN-SUFFIX,uku.im
 DOMAIN-SUFFIX,ulike.net
 DOMAIN-SUFFIX,ulop.net
+DOMAIN-SUFFIX,ultrasurf.us
+DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,umich.edu
@@ -6022,6 +6025,7 @@ DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,usaip.eu
 DOMAIN-SUFFIX,uscardforum.com
+DOMAIN-SUFFIX,uscg.mil
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usembassy.gov
 DOMAIN-SUFFIX,userapi.nytlog.com
@@ -6194,6 +6198,7 @@ DOMAIN-SUFFIX,vpnmentor.com
 DOMAIN-SUFFIX,vpnpick.com
 DOMAIN-SUFFIX,vpnpop.com
 DOMAIN-SUFFIX,vpnpronet.com
+DOMAIN-SUFFIX,vpnproxymaster.com
 DOMAIN-SUFFIX,vpnreactor.com
 DOMAIN-SUFFIX,vpnreviewz.com
 DOMAIN-SUFFIX,vpnsecure.me
@@ -6396,6 +6401,7 @@ DOMAIN-SUFFIX,wjbk.org
 DOMAIN-SUFFIX,wlcnew.jigsy.com
 DOMAIN-SUFFIX,wlx.sowiki.net
 DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg.org
@@ -6619,6 +6625,7 @@ DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yanghengjun.com
 DOMAIN-SUFFIX,yangjianli.com
 DOMAIN-SUFFIX,yasni.co.uk
+DOMAIN-SUFFIX,yasukuni.or.jp
 DOMAIN-SUFFIX,yayabay.com
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,ydy.com
@@ -6694,6 +6701,7 @@ DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,yuanzhengtang.org
 DOMAIN-SUFFIX,yulghun.com
 DOMAIN-SUFFIX,yunchao.net
+DOMAIN-SUFFIX,yunomi.tokyo
 DOMAIN-SUFFIX,yuvutu.com
 DOMAIN-SUFFIX,yvesgeleyn.com
 DOMAIN-SUFFIX,ywpw.com

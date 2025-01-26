@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 31050
+# 规则统计: 31059
 
 domain_set:
   - 3dns-1.adobe.com
@@ -5495,6 +5495,7 @@ domain_suffix_set:
   - btdig.com
   - btdigg.org
   - btec.co.uk
+  - btguard.com
   - btku.me
   - btku.org
   - bton.ac.uk
@@ -8392,6 +8393,7 @@ domain_suffix_set:
   - dlyoutube.com
   - dm-event.net
   - dm530.net
+  - dma.mil
   - dmcdn.net
   - dmed.technology
   - dmgmediaprivacy.co.uk
@@ -12373,7 +12375,7 @@ domain_suffix_set:
   - googleplay.com
   - googleplex.com
   - googleplus.com
-  - googlescholar.comUSA
+  - googlescholar.com
   - googlesile.com
   - googlesource.com
   - googlestore.com
@@ -27369,6 +27371,7 @@ domain_suffix_set:
   - u9a9.cc
   - u9a9.com
   - u9un.com
+  - ua5v.com
   - ua92.ac.uk
   - uaa.com
   - uab.com.mm
@@ -27584,6 +27587,8 @@ domain_suffix_set:
   - ultimaonline.com
   - ultradonkey.com
   - ultralab.ac.uk
+  - ultrasurf.us
+  - ultravpn.com
   - ultravpn.fr
   - ultraxs.com
   - umagazine.com.hk
@@ -27759,6 +27764,7 @@ domain_suffix_set:
   - usatoday.com
   - usatodaynetworkservice.com
   - uscardforum.com
+  - uscg.mil
   - uscnpm.org
   - use-of-mans.ac.uk
   - uselessjunk.com
@@ -28765,6 +28771,7 @@ domain_suffix_set:
   - vpnpick.com
   - vpnpop.com
   - vpnpronet.com
+  - vpnproxymaster.com
   - vpnreactor.com
   - vpnreviewz.com
   - vpnsecure.me
@@ -30441,6 +30448,7 @@ domain_suffix_set:
   - yasarang.net
   - yasni.co.uk
   - yastatic.net
+  - yasukuni.or.jp
   - yavtube.com
   - yaya.cyou
   - yayabay.com
@@ -30815,6 +30823,7 @@ domain_suffix_set:
   - yunlaopo.cc
   - yunlaopo.com
   - yunlaopo.net
+  - yunomi.tokyo
   - yusercontent.com
   - yusjb.com
   - yuvutu.com
