@@ -1,5 +1,5 @@
 # 规则名称: REJECT
-# 规则统计: 66412
+# 规则统计: 66424
 
 domain_suffix_set:
   - 0.code.cotsta.ru
@@ -26,6 +26,7 @@ domain_suffix_set:
   - 0127c96640.com
   - 01counter.com
   - 01jud3v55z.com
+  - 02085170.xyz
   - 023e6510cc.com
   - 023hysj.com
   - 0265331.com
@@ -1002,6 +1003,7 @@ domain_suffix_set:
   - 4690y10pvpq8.com
   - 46bd8e62a2.com
   - 46f4vjo86.com
+  - 47206262.xyz
   - 47235645.xyz
   - 47296536.xyz
   - 4736.in
@@ -1236,10 +1238,12 @@ domain_suffix_set:
   - 61ads.net
   - 61t2ll6yy.com
   - 61zdn1c9.skin
+  - 62842068.xyz
   - 62a77005fb.com
   - 62ca04e27a.com
   - 62zd0.icu
   - 634369.xyz
+  - 63801782.xyz
   - 63912b9175.com
   - 639c909d45.com
   - 63r2vxacp0pr.com
@@ -1249,6 +1253,7 @@ domain_suffix_set:
   - 6471e7f7.xyz
   - 64p3am9x95ct.com
   - 65035033.xyz
+  - 65122038.xyz
   - 656f1ba3.xyz
   - 657475b7-0095-478d-90d4-96ce440604f9.online
   - 65894140.xyz
@@ -1591,6 +1596,7 @@ domain_suffix_set:
   - 8po6fdwjsym3.com
   - 8q88n.icu
   - 8s32e590un.com
+  - 8sh.fun
   - 8stream-ai.com
   - 8suis.top
   - 8t9he.cyou
@@ -19895,6 +19901,7 @@ domain_suffix_set:
   - dkfqrsqg.com
   - dkgp834o9n8xl.cloudfront.net
   - dkhffh.xyz
+  - dklnxtcj.icu
   - dkm6b5q0h53z4.cloudfront.net
   - dkmjxh.info
   - dkotrack.com
@@ -27293,6 +27300,7 @@ domain_suffix_set:
   - h2.helenrosi.com
   - h3.helenrosi.com
   - h353.ncadvertiser.com
+  - h3d.fun
   - h4.helenrosi.com
   - h49vnk.cyou
   - h5.50db8hsdoq.shop
@@ -30629,6 +30637,7 @@ domain_suffix_set:
   - irisunitepleased.com
   - irkantyip.com
   - irkerecue.com
+  - irkrellw.com
   - irkrors.com
   - irksomefiery.com
   - irmbyu.xyz
@@ -38578,6 +38587,7 @@ domain_suffix_set:
   - nadruphoordy.xyz
   - nads.io
   - naetoris.pw
+  - naettarq.com
   - naewynn.com
   - naforeshow.org
   - naggingirresponsible.com
@@ -45494,6 +45504,7 @@ domain_suffix_set:
   - pub2srv.com
   - pubadx.one
   - pubaka5.com
+  - pubcircle.ai
   - pubdirecte.com
   - pubdisturbance.com
   - pubertybloatgrief.com
@@ -53674,7 +53685,6 @@ domain_suffix_set:
   - stitchalmond.com
   - stixeepou.com
   - stjpezyt.com
-  - stk.px-cloud.net
   - stlog.d.dmkt-sp.jp
   - stlog.dmarket.docomo.ne.jp
   - stlpnom.xyz
@@ -58932,6 +58942,7 @@ domain_suffix_set:
   - txhfgwgkwt8.asia
   - txjhmbn.com
   - txmeeqz.icu
+  - txnczz.icu
   - txt.eu
   - txtrek.net
   - txtrk.com
@@ -65113,6 +65124,7 @@ domain_suffix_set:
   - xxsmad2.com
   - xxsmad3.com
   - xxsmad4.com
+  - xxsmad5.com
   - xxss6677.com
   - xxx-babes.org
   - xxx.sdtraff.com

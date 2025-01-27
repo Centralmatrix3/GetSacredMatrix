@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31090
+# 规则统计: 31100
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -5066,6 +5066,7 @@ HOST-SUFFIX,btctrade.im,GlobalMax
 HOST-SUFFIX,btdig.com,GlobalMax
 HOST-SUFFIX,btdigg.org,GlobalMax
 HOST-SUFFIX,btec.co.uk,GlobalMax
+HOST-SUFFIX,btguard.com,GlobalMax
 HOST-SUFFIX,btku.me,GlobalMax
 HOST-SUFFIX,btku.org,GlobalMax
 HOST-SUFFIX,btlibrary.me,GlobalMax
@@ -7926,6 +7927,7 @@ HOST-SUFFIX,dlsitestudio.com,GlobalMax
 HOST-SUFFIX,dlyoutube.com,GlobalMax
 HOST-SUFFIX,dm-event.net,GlobalMax
 HOST-SUFFIX,dm530.net,GlobalMax
+HOST-SUFFIX,dma.mil,GlobalMax
 HOST-SUFFIX,dmc.nico,GlobalMax
 HOST-SUFFIX,dmcdn.net,GlobalMax
 HOST-SUFFIX,dmed.technology,GlobalMax
@@ -12003,6 +12005,7 @@ HOST-SUFFIX,googlephotos.com,GlobalMax
 HOST-SUFFIX,googleplay.com,GlobalMax
 HOST-SUFFIX,googleplex.com,GlobalMax
 HOST-SUFFIX,googleplus.com,GlobalMax
+HOST-SUFFIX,googlescholar.com,GlobalMax
 HOST-SUFFIX,googlescholar.comusa,GlobalMax
 HOST-SUFFIX,googlesile.com,GlobalMax
 HOST-SUFFIX,googlesource.com,GlobalMax
@@ -27213,6 +27216,7 @@ HOST-SUFFIX,u4heusergroup.ac.uk,GlobalMax
 HOST-SUFFIX,u9a9.cc,GlobalMax
 HOST-SUFFIX,u9a9.com,GlobalMax
 HOST-SUFFIX,u9un.com,GlobalMax
+HOST-SUFFIX,ua5v.com,GlobalMax
 HOST-SUFFIX,ua92.ac.uk,GlobalMax
 HOST-SUFFIX,uaa.com,GlobalMax
 HOST-SUFFIX,uab.com.mm,GlobalMax
@@ -27432,6 +27436,8 @@ HOST-SUFFIX,ultimaforever.com,GlobalMax
 HOST-SUFFIX,ultimaonline.com,GlobalMax
 HOST-SUFFIX,ultradonkey.com,GlobalMax
 HOST-SUFFIX,ultralab.ac.uk,GlobalMax
+HOST-SUFFIX,ultrasurf.us,GlobalMax
+HOST-SUFFIX,ultravpn.com,GlobalMax
 HOST-SUFFIX,ultravpn.fr,GlobalMax
 HOST-SUFFIX,ultraxs.com,GlobalMax
 HOST-SUFFIX,ultrayoungsex.com,GlobalMax
@@ -27621,6 +27627,7 @@ HOST-SUFFIX,usatoday.com,GlobalMax
 HOST-SUFFIX,usatodaynetworkservice.com,GlobalMax
 HOST-SUFFIX,usc.edu,GlobalMax
 HOST-SUFFIX,uscardforum.com,GlobalMax
+HOST-SUFFIX,uscg.mil,GlobalMax
 HOST-SUFFIX,uscnpm.org,GlobalMax
 HOST-SUFFIX,use-of-mans.ac.uk,GlobalMax
 HOST-SUFFIX,uselessjunk.com,GlobalMax
@@ -28623,6 +28630,7 @@ HOST-SUFFIX,vpnmentor.com,GlobalMax
 HOST-SUFFIX,vpnpick.com,GlobalMax
 HOST-SUFFIX,vpnpop.com,GlobalMax
 HOST-SUFFIX,vpnpronet.com,GlobalMax
+HOST-SUFFIX,vpnproxymaster.com,GlobalMax
 HOST-SUFFIX,vpnreactor.com,GlobalMax
 HOST-SUFFIX,vpnreviewz.com,GlobalMax
 HOST-SUFFIX,vpnsecure.me,GlobalMax
@@ -30269,6 +30277,7 @@ HOST-SUFFIX,yarnpkg.com,GlobalMax
 HOST-SUFFIX,yasarang.net,GlobalMax
 HOST-SUFFIX,yasni.co.uk,GlobalMax
 HOST-SUFFIX,yastatic.net,GlobalMax
+HOST-SUFFIX,yasukuni.or.jp,GlobalMax
 HOST-SUFFIX,yatong.info,GlobalMax
 HOST-SUFFIX,yavtube.com,GlobalMax
 HOST-SUFFIX,yaya.cyou,GlobalMax
@@ -30701,6 +30710,7 @@ HOST-SUFFIX,yunchao.net,GlobalMax
 HOST-SUFFIX,yunlaopo.cc,GlobalMax
 HOST-SUFFIX,yunlaopo.com,GlobalMax
 HOST-SUFFIX,yunlaopo.net,GlobalMax
+HOST-SUFFIX,yunomi.tokyo,GlobalMax
 HOST-SUFFIX,yuntipub.com,GlobalMax
 HOST-SUFFIX,yusercontent.com,GlobalMax
 HOST-SUFFIX,yusjb.com,GlobalMax

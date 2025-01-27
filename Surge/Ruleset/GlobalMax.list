@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31090
+# 规则统计: 31100
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -5066,6 +5066,7 @@ DOMAIN-SUFFIX,btctrade.im
 DOMAIN-SUFFIX,btdig.com
 DOMAIN-SUFFIX,btdigg.org
 DOMAIN-SUFFIX,btec.co.uk
+DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,btku.me
 DOMAIN-SUFFIX,btku.org
 DOMAIN-SUFFIX,btlibrary.me
@@ -7926,6 +7927,7 @@ DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dm530.net
+DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmed.technology
@@ -12003,6 +12005,7 @@ DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
+DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlescholar.comusa
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
@@ -27213,6 +27216,7 @@ DOMAIN-SUFFIX,u4heusergroup.ac.uk
 DOMAIN-SUFFIX,u9a9.cc
 DOMAIN-SUFFIX,u9a9.com
 DOMAIN-SUFFIX,u9un.com
+DOMAIN-SUFFIX,ua5v.com
 DOMAIN-SUFFIX,ua92.ac.uk
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,uab.com.mm
@@ -27432,6 +27436,8 @@ DOMAIN-SUFFIX,ultimaforever.com
 DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,ultradonkey.com
 DOMAIN-SUFFIX,ultralab.ac.uk
+DOMAIN-SUFFIX,ultrasurf.us
+DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ultrayoungsex.com
@@ -27621,6 +27627,7 @@ DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usatodaynetworkservice.com
 DOMAIN-SUFFIX,usc.edu
 DOMAIN-SUFFIX,uscardforum.com
+DOMAIN-SUFFIX,uscg.mil
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,use-of-mans.ac.uk
 DOMAIN-SUFFIX,uselessjunk.com
@@ -28623,6 +28630,7 @@ DOMAIN-SUFFIX,vpnmentor.com
 DOMAIN-SUFFIX,vpnpick.com
 DOMAIN-SUFFIX,vpnpop.com
 DOMAIN-SUFFIX,vpnpronet.com
+DOMAIN-SUFFIX,vpnproxymaster.com
 DOMAIN-SUFFIX,vpnreactor.com
 DOMAIN-SUFFIX,vpnreviewz.com
 DOMAIN-SUFFIX,vpnsecure.me
@@ -30269,6 +30277,7 @@ DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,yasarang.net
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yasukuni.or.jp
 DOMAIN-SUFFIX,yatong.info
 DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
@@ -30701,6 +30710,7 @@ DOMAIN-SUFFIX,yunchao.net
 DOMAIN-SUFFIX,yunlaopo.cc
 DOMAIN-SUFFIX,yunlaopo.com
 DOMAIN-SUFFIX,yunlaopo.net
+DOMAIN-SUFFIX,yunomi.tokyo
 DOMAIN-SUFFIX,yuntipub.com
 DOMAIN-SUFFIX,yusercontent.com
 DOMAIN-SUFFIX,yusjb.com
